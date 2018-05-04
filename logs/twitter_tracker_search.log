@@ -1,0 +1,34 @@
+(2018-05-02 18:47:26,638) [20477] INFO: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+(2018-05-02 18:47:26,639) [20477] ERROR: Expecting value: line 1 column 1 (char 0)
+(2018-05-02 18:47:26,641) [20477] ERROR: Traceback (most recent call last):
+  File "twitter_tracker.py", line 329, in <module>
+    collect_tweets_by_search_terms(args.command_config, output_folder, config)
+  File "twitter_tracker.py", line 37, in collect_tweets_by_search_terms
+    search_configs = json.load(search_configs_rf)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/__init__.py", line 299, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+(2018-05-02 18:48:28,645) [20506] INFO: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+(2018-05-02 18:48:28,646) [20506] INFO: REQUEST -> (md5(querystring): [5e511dda01bc2af0413a33470310d671]; since_id: [945397488873328640]; geocode: [None])
+(2018-05-02 18:49:08,499) [20506] ERROR: You pressed Ctrl+C! SO I JUST Killed myself...
+(2018-05-02 18:52:48,060) [20563] INFO: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+(2018-05-02 18:52:48,061) [20563] INFO: REQUEST -> (md5(querystring): [a4a2837cd4e241968c49496a8791dfce]; since_id: [945397488873328640]; geocode: [None])
+(2018-05-02 18:53:40,343) [20563] ERROR: You pressed Ctrl+C! SO I JUST Killed myself...
+(2018-05-02 19:08:52,880) [20704] INFO: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+(2018-05-02 19:08:52,882) [20704] INFO: REQUEST -> (md5(querystring): [a4a2837cd4e241968c49496a8791dfce]; since_id: [945397488873328640]; geocode: [None])
+(2018-05-02 19:09:12,627) [20704] ERROR: You pressed Ctrl+C! SO I JUST Killed myself...
+(2018-05-02 19:18:18,276) [20791] INFO: 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+(2018-05-02 19:18:18,278) [20791] INFO: REQUEST -> (md5(querystring): [a4a2837cd4e241968c49496a8791dfce]; since_id: [945397488873328640]; geocode: [None])
+(2018-05-02 22:29:54,831) [20791] ERROR: You pressed Ctrl+C! SO I JUST Killed myself...
