@@ -32,3 +32,7 @@ json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
 (2018-05-02 19:18:18,278) [20791] INFO: REQUEST -> (md5(querystring): [a4a2837cd4e241968c49496a8791dfce]; since_id: [945397488873328640]; geocode: [None])
 (2018-05-02 22:29:54,831) [20791] ERROR: You pressed Ctrl+C! SO I JUST Killed myself...
+(2018-05-03 20:23:07,135) [3103] INFO: 3.6.5 (default, Apr  1 2018, 05:46:30) 
+[GCC 7.3.0]
+(2018-05-03 20:23:07,135) [3103] INFO: REQUEST -> (md5(querystring): [a4a2837cd4e241968c49496a8791dfce]; since_id: [945397488873328640]; geocode: [None])
+(2018-05-03 21:18:18,130) [3103] ERROR: You pressed Ctrl+C! SO I JUST Killed myself...
