@@ -1,0 +1,6 @@
+(2018-05-06 19:51:09,778) [10670] ERROR: file() takes at most 3 arguments (4 given)
+(2018-05-06 19:51:17,283) [10670] ERROR: You pressed Ctrl+C!
+(2018-05-06 19:53:21,760) [10701] ERROR: file() takes at most 3 arguments (4 given)
+(2018-05-06 19:53:28,925) [10701] ERROR: You pressed Ctrl+C!
+(2018-05-06 19:58:20,328) [10768] INFO: start collecting for US_BY_STATE_1.json.....
+(2018-05-06 19:58:28,162) [10768] ERROR: You pressed Ctrl+C!
