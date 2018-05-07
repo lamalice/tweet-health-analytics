@@ -7,7 +7,6 @@
     "hashtags": [],
     "retweets_count": 3933,
     "favorite_count": 8965,
-    "classification": "",
     "proba": "[0.87166242,0.12833758]",
     "classication": "negative"
   },
@@ -27,7 +26,6 @@
     ],
     "retweets_count": 2,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.79774551,0.20225449]",
     "classication": "negative"
   },
@@ -39,7 +37,6 @@
     "hashtags": [],
     "retweets_count": 34839,
     "favorite_count": 143589,
-    "classification": "",
     "proba": "[0.89218544,0.10781456]",
     "classication": "negative"
   },
@@ -59,7 +56,6 @@
     ],
     "retweets_count": 17266,
     "favorite_count": 43905,
-    "classification": "",
     "proba": "[0.37293231,0.62706769]",
     "classication": "positive"
   },
@@ -71,7 +67,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.8160969,0.1839031]",
     "classication": "negative"
   },
@@ -83,7 +78,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.90960644,0.09039356]",
     "classication": "negative"
   },
@@ -103,7 +97,6 @@
     ],
     "retweets_count": 10182,
     "favorite_count": 23281,
-    "classification": "",
     "proba": "[0.31858355,0.68141645]",
     "classication": "positive"
   },
@@ -123,7 +116,6 @@
     ],
     "retweets_count": 495,
     "favorite_count": 591,
-    "classification": "",
     "proba": "[0.8441722,0.1558278]",
     "classication": "negative"
   },
@@ -135,7 +127,6 @@
     "hashtags": [],
     "retweets_count": 43,
     "favorite_count": 462,
-    "classification": "",
     "proba": "[0.58204364,0.41795636]",
     "classication": "negative"
   },
@@ -147,7 +138,6 @@
     "hashtags": [],
     "retweets_count": 220,
     "favorite_count": 145,
-    "classification": "",
     "proba": "[0.77305715,0.22694285]",
     "classication": "negative"
   },
@@ -159,7 +149,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.78961609,0.21038391]",
     "classication": "negative"
   },
@@ -171,7 +160,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -183,7 +171,6 @@
     "hashtags": [],
     "retweets_count": 58,
     "favorite_count": 53,
-    "classification": "",
     "proba": "[0.66906791,0.33093209]",
     "classication": "negative"
   },
@@ -203,7 +190,6 @@
     ],
     "retweets_count": 117,
     "favorite_count": 324,
-    "classification": "",
     "proba": "[0.65475503,0.34524497]",
     "classication": "negative"
   },
@@ -230,7 +216,6 @@
     ],
     "retweets_count": 576,
     "favorite_count": 1422,
-    "classification": "",
     "proba": "[0.67105442,0.32894558]",
     "classication": "negative"
   },
@@ -242,7 +227,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.82580704,0.17419296]",
     "classication": "negative"
   },
@@ -254,7 +238,6 @@
     "hashtags": [],
     "retweets_count": 2658,
     "favorite_count": 9186,
-    "classification": "",
     "proba": "[0.85508376,0.14491624]",
     "classication": "negative"
   },
@@ -266,7 +249,6 @@
     "hashtags": [],
     "retweets_count": 1708,
     "favorite_count": 2927,
-    "classification": "",
     "proba": "[0.80823705,0.19176295]",
     "classication": "negative"
   },
@@ -278,7 +260,6 @@
     "hashtags": [],
     "retweets_count": 42,
     "favorite_count": 187,
-    "classification": "",
     "proba": "[0.82782214,0.17217786]",
     "classication": "negative"
   },
@@ -290,7 +271,6 @@
     "hashtags": [],
     "retweets_count": 1758,
     "favorite_count": 2630,
-    "classification": "",
     "proba": "[0.8267909,0.1732091]",
     "classication": "negative"
   },
@@ -302,7 +282,6 @@
     "hashtags": [],
     "retweets_count": 11042,
     "favorite_count": 22314,
-    "classification": "",
     "proba": "[0.87365821,0.12634179]",
     "classication": "negative"
   },
@@ -314,7 +293,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.7311164,0.2688836]",
     "classication": "negative"
   },
@@ -326,7 +304,6 @@
     "hashtags": [],
     "retweets_count": 80,
     "favorite_count": 82,
-    "classification": "",
     "proba": "[0.9080813,0.0919187]",
     "classication": "negative"
   },
@@ -338,7 +315,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.72308163,0.27691837]",
     "classication": "negative"
   },
@@ -350,7 +326,6 @@
     "hashtags": [],
     "retweets_count": 320,
     "favorite_count": 408,
-    "classification": "",
     "proba": "[0.79080832,0.20919168]",
     "classication": "negative"
   },
@@ -362,7 +337,6 @@
     "hashtags": [],
     "retweets_count": 16,
     "favorite_count": 40,
-    "classification": "",
     "proba": "[0.85498915,0.14501085]",
     "classication": "negative"
   },
@@ -374,7 +348,6 @@
     "hashtags": [],
     "retweets_count": 68,
     "favorite_count": 206,
-    "classification": "",
     "proba": "[0.77288898,0.22711102]",
     "classication": "negative"
   },
@@ -386,7 +359,6 @@
     "hashtags": [],
     "retweets_count": 143,
     "favorite_count": 204,
-    "classification": "",
     "proba": "[0.84712963,0.15287037]",
     "classication": "negative"
   },
@@ -398,7 +370,6 @@
     "hashtags": [],
     "retweets_count": 154,
     "favorite_count": 589,
-    "classification": "",
     "proba": "[0.7418737,0.2581263]",
     "classication": "negative"
   },
@@ -410,7 +381,6 @@
     "hashtags": [],
     "retweets_count": 73,
     "favorite_count": 183,
-    "classification": "",
     "proba": "[0.77428497,0.22571503]",
     "classication": "negative"
   },
@@ -422,7 +392,6 @@
     "hashtags": [],
     "retweets_count": 763,
     "favorite_count": 2310,
-    "classification": "",
     "proba": "[0.85464145,0.14535855]",
     "classication": "negative"
   },
@@ -434,7 +403,6 @@
     "hashtags": [],
     "retweets_count": 155,
     "favorite_count": 3596,
-    "classification": "",
     "proba": "[0.63802008,0.36197992]",
     "classication": "negative"
   },
@@ -446,7 +414,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.83528721,0.16471279]",
     "classication": "negative"
   },
@@ -458,7 +425,6 @@
     "hashtags": [],
     "retweets_count": 9,
     "favorite_count": 12,
-    "classification": "",
     "proba": "[0.65031753,0.34968247]",
     "classication": "negative"
   },
@@ -492,7 +458,6 @@
     ],
     "retweets_count": 6042,
     "favorite_count": 25644,
-    "classification": "",
     "proba": "[0.80914965,0.19085035]",
     "classication": "negative"
   },
@@ -512,7 +477,6 @@
     ],
     "retweets_count": 1090,
     "favorite_count": 2222,
-    "classification": "",
     "proba": "[0.83282839,0.16717161]",
     "classication": "negative"
   },
@@ -524,7 +488,6 @@
     "hashtags": [],
     "retweets_count": 178,
     "favorite_count": 192,
-    "classification": "",
     "proba": "[0.70414124,0.29585876]",
     "classication": "negative"
   },
@@ -536,7 +499,6 @@
     "hashtags": [],
     "retweets_count": 86,
     "favorite_count": 111,
-    "classification": "",
     "proba": "[0.88074332,0.11925668]",
     "classication": "negative"
   },
@@ -548,7 +510,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 12,
-    "classification": "",
     "proba": "[0.87517854,0.12482146]",
     "classication": "negative"
   },
@@ -560,7 +521,6 @@
     "hashtags": [],
     "retweets_count": 84,
     "favorite_count": 108,
-    "classification": "",
     "proba": "[0.77420289,0.22579711]",
     "classication": "negative"
   },
@@ -572,7 +532,6 @@
     "hashtags": [],
     "retweets_count": 943,
     "favorite_count": 2058,
-    "classification": "",
     "proba": "[0.70141357,0.29858643]",
     "classication": "negative"
   },
@@ -584,7 +543,6 @@
     "hashtags": [],
     "retweets_count": 799,
     "favorite_count": 3350,
-    "classification": "",
     "proba": "[0.8320341,0.1679659]",
     "classication": "negative"
   },
@@ -596,7 +554,6 @@
     "hashtags": [],
     "retweets_count": 47,
     "favorite_count": 243,
-    "classification": "",
     "proba": "[0.8378273,0.1621727]",
     "classication": "negative"
   },
@@ -608,7 +565,6 @@
     "hashtags": [],
     "retweets_count": 156,
     "favorite_count": 167,
-    "classification": "",
     "proba": "[0.77823913,0.22176087]",
     "classication": "negative"
   },
@@ -620,7 +576,6 @@
     "hashtags": [],
     "retweets_count": 67736,
     "favorite_count": 171530,
-    "classification": "",
     "proba": "[0.81989543,0.18010457]",
     "classication": "negative"
   },
@@ -632,7 +587,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.63802008,0.36197992]",
     "classication": "negative"
   },
@@ -644,7 +598,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.75484789,0.24515211]",
     "classication": "negative"
   },
@@ -656,7 +609,6 @@
     "hashtags": [],
     "retweets_count": 20,
     "favorite_count": 27,
-    "classification": "",
     "proba": "[0.81582294,0.18417706]",
     "classication": "negative"
   },
@@ -668,7 +620,6 @@
     "hashtags": [],
     "retweets_count": 20,
     "favorite_count": 62,
-    "classification": "",
     "proba": "[0.55375598,0.44624402]",
     "classication": "negative"
   },
@@ -680,7 +631,6 @@
     "hashtags": [],
     "retweets_count": 1292,
     "favorite_count": 1779,
-    "classification": "",
     "proba": "[0.85102266,0.14897734]",
     "classication": "negative"
   },
@@ -692,7 +642,6 @@
     "hashtags": [],
     "retweets_count": 866,
     "favorite_count": 3340,
-    "classification": "",
     "proba": "[0.84085611,0.15914389]",
     "classication": "negative"
   },
@@ -704,7 +653,6 @@
     "hashtags": [],
     "retweets_count": 989,
     "favorite_count": 1119,
-    "classification": "",
     "proba": "[0.82338301,0.17661699]",
     "classication": "negative"
   },
@@ -716,7 +664,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.8466701,0.1533299]",
     "classication": "negative"
   },
@@ -728,7 +675,6 @@
     "hashtags": [],
     "retweets_count": 1633,
     "favorite_count": 4024,
-    "classification": "",
     "proba": "[0.87267337,0.12732663]",
     "classication": "negative"
   },
@@ -740,7 +686,6 @@
     "hashtags": [],
     "retweets_count": 143,
     "favorite_count": 224,
-    "classification": "",
     "proba": "[0.70434095,0.29565905]",
     "classication": "negative"
   },
@@ -752,7 +697,6 @@
     "hashtags": [],
     "retweets_count": 721,
     "favorite_count": 1787,
-    "classification": "",
     "proba": "[0.71988981,0.28011019]",
     "classication": "negative"
   },
@@ -764,7 +708,6 @@
     "hashtags": [],
     "retweets_count": 17,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.72710019,0.27289981]",
     "classication": "negative"
   },
@@ -784,7 +727,6 @@
     ],
     "retweets_count": 4,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.80520762,0.19479238]",
     "classication": "negative"
   },
@@ -796,7 +738,6 @@
     "hashtags": [],
     "retweets_count": 41,
     "favorite_count": 134,
-    "classification": "",
     "proba": "[0.73679194,0.26320806]",
     "classication": "negative"
   },
@@ -844,7 +785,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.89460882,0.10539118]",
     "classication": "negative"
   },
@@ -864,7 +804,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.85463124,0.14536876]",
     "classication": "negative"
   },
@@ -876,7 +815,6 @@
     "hashtags": [],
     "retweets_count": 3020,
     "favorite_count": 10070,
-    "classification": "",
     "proba": "[0.81989543,0.18010457]",
     "classication": "negative"
   },
@@ -888,7 +826,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.71713605,0.28286395]",
     "classication": "negative"
   },
@@ -900,7 +837,6 @@
     "hashtags": [],
     "retweets_count": 6749,
     "favorite_count": 33832,
-    "classification": "",
     "proba": "[0.86474398,0.13525602]",
     "classication": "negative"
   },
@@ -920,7 +856,6 @@
     ],
     "retweets_count": 142,
     "favorite_count": 326,
-    "classification": "",
     "proba": "[0.65815672,0.34184328]",
     "classication": "negative"
   },
@@ -932,7 +867,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 89,
-    "classification": "",
     "proba": "[0.81344066,0.18655934]",
     "classication": "negative"
   },
@@ -944,7 +878,6 @@
     "hashtags": [],
     "retweets_count": 402,
     "favorite_count": 640,
-    "classification": "",
     "proba": "[0.89986307,0.10013693]",
     "classication": "negative"
   },
@@ -956,7 +889,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.66338518,0.33661482]",
     "classication": "negative"
   },
@@ -968,7 +900,6 @@
     "hashtags": [],
     "retweets_count": 1158,
     "favorite_count": 3112,
-    "classification": "",
     "proba": "[0.66324622,0.33675378]",
     "classication": "negative"
   },
@@ -980,7 +911,6 @@
     "hashtags": [],
     "retweets_count": 3064,
     "favorite_count": 9444,
-    "classification": "",
     "proba": "[0.61109114,0.38890886]",
     "classication": "negative"
   },
@@ -992,7 +922,6 @@
     "hashtags": [],
     "retweets_count": 91,
     "favorite_count": 815,
-    "classification": "",
     "proba": "[0.92165821,0.07834179]",
     "classication": "negative"
   },
@@ -1004,7 +933,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -1016,7 +944,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 108,
-    "classification": "",
     "proba": "[0.74872363,0.25127637]",
     "classication": "negative"
   },
@@ -1028,7 +955,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.82578398,0.17421602]",
     "classication": "negative"
   },
@@ -1040,7 +966,6 @@
     "hashtags": [],
     "retweets_count": 1167,
     "favorite_count": 3076,
-    "classification": "",
     "proba": "[0.7941038,0.2058962]",
     "classication": "negative"
   },
@@ -1052,7 +977,6 @@
     "hashtags": [],
     "retweets_count": 174,
     "favorite_count": 273,
-    "classification": "",
     "proba": "[0.65156255,0.34843745]",
     "classication": "negative"
   },
@@ -1064,7 +988,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -1076,7 +999,6 @@
     "hashtags": [],
     "retweets_count": 474,
     "favorite_count": 1079,
-    "classification": "",
     "proba": "[0.73117708,0.26882292]",
     "classication": "negative"
   },
@@ -1088,7 +1010,6 @@
     "hashtags": [],
     "retweets_count": 7229,
     "favorite_count": 11042,
-    "classification": "",
     "proba": "[0.75784554,0.24215446]",
     "classication": "negative"
   },
@@ -1100,7 +1021,6 @@
     "hashtags": [],
     "retweets_count": 580,
     "favorite_count": 1811,
-    "classification": "",
     "proba": "[0.75112979,0.24887021]",
     "classication": "negative"
   },
@@ -1112,7 +1032,6 @@
     "hashtags": [],
     "retweets_count": 16,
     "favorite_count": 85,
-    "classification": "",
     "proba": "[0.26007873,0.73992127]",
     "classication": "negative"
   },
@@ -1124,7 +1043,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 14,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -1144,7 +1062,6 @@
     ],
     "retweets_count": 3,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.72243857,0.27756143]",
     "classication": "negative"
   },
@@ -1156,7 +1073,6 @@
     "hashtags": [],
     "retweets_count": 20,
     "favorite_count": 51,
-    "classification": "",
     "proba": "[0.82721806,0.17278194]",
     "classication": "negative"
   },
@@ -1183,7 +1099,6 @@
     ],
     "retweets_count": 216,
     "favorite_count": 243,
-    "classification": "",
     "proba": "[0.81406421,0.18593579]",
     "classication": "negative"
   },
@@ -1195,7 +1110,6 @@
     "hashtags": [],
     "retweets_count": 121,
     "favorite_count": 378,
-    "classification": "",
     "proba": "[0.76265997,0.23734003]",
     "classication": "negative"
   },
@@ -1207,7 +1121,6 @@
     "hashtags": [],
     "retweets_count": 446,
     "favorite_count": 411,
-    "classification": "",
     "proba": "[0.75557129,0.24442871]",
     "classication": "negative"
   },
@@ -1219,7 +1132,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.75192446,0.24807554]",
     "classication": "negative"
   },
@@ -1231,7 +1143,6 @@
     "hashtags": [],
     "retweets_count": 34,
     "favorite_count": 26,
-    "classification": "",
     "proba": "[0.7755679,0.2244321]",
     "classication": "negative"
   },
@@ -1243,7 +1154,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 15,
-    "classification": "",
     "proba": "[0.75977621,0.24022379]",
     "classication": "negative"
   },
@@ -1255,7 +1165,6 @@
     "hashtags": [],
     "retweets_count": 29,
     "favorite_count": 49,
-    "classification": "",
     "proba": "[0.74779764,0.25220236]",
     "classication": "negative"
   },
@@ -1267,7 +1176,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.89057658,0.10942342]",
     "classication": "negative"
   },
@@ -1294,7 +1202,6 @@
     ],
     "retweets_count": 4,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.81387837,0.18612163]",
     "classication": "negative"
   },
@@ -1306,7 +1213,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 59,
-    "classification": "",
     "proba": "[0.89250438,0.10749562]",
     "classication": "negative"
   },
@@ -1318,7 +1224,6 @@
     "hashtags": [],
     "retweets_count": 173213,
     "favorite_count": 315785,
-    "classification": "",
     "proba": "[0.83843321,0.16156679]",
     "classication": "negative"
   },
@@ -1338,7 +1243,6 @@
     ],
     "retweets_count": 35,
     "favorite_count": 83,
-    "classification": "",
     "proba": "[0.75155262,0.24844738]",
     "classication": "negative"
   },
@@ -1350,7 +1254,6 @@
     "hashtags": [],
     "retweets_count": 142,
     "favorite_count": 389,
-    "classification": "",
     "proba": "[0.81966621,0.18033379]",
     "classication": "negative"
   },
@@ -1362,7 +1265,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 17,
-    "classification": "",
     "proba": "[0.89905292,0.10094708]",
     "classication": "negative"
   },
@@ -1374,7 +1276,6 @@
     "hashtags": [],
     "retweets_count": 83,
     "favorite_count": 751,
-    "classification": "",
     "proba": "[0.9011606,0.0988394]",
     "classication": "negative"
   },
@@ -1386,7 +1287,6 @@
     "hashtags": [],
     "retweets_count": 338,
     "favorite_count": 945,
-    "classification": "",
     "proba": "[0.81506376,0.18493624]",
     "classication": "negative"
   },
@@ -1398,7 +1298,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.87526714,0.12473286]",
     "classication": "negative"
   },
@@ -1410,7 +1309,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.85051074,0.14948926]",
     "classication": "negative"
   },
@@ -1430,7 +1328,6 @@
     ],
     "retweets_count": 5,
     "favorite_count": 16,
-    "classification": "",
     "proba": "[0.91947447,0.08052553]",
     "classication": "negative"
   },
@@ -1442,7 +1339,6 @@
     "hashtags": [],
     "retweets_count": 38,
     "favorite_count": 50,
-    "classification": "",
     "proba": "[0.84249532,0.15750468]",
     "classication": "negative"
   },
@@ -1454,7 +1350,6 @@
     "hashtags": [],
     "retweets_count": 23153,
     "favorite_count": 48926,
-    "classification": "",
     "proba": "[0.91282608,0.08717392]",
     "classication": "negative"
   },
@@ -1466,7 +1361,6 @@
     "hashtags": [],
     "retweets_count": 87,
     "favorite_count": 78,
-    "classification": "",
     "proba": "[0.70791314,0.29208686]",
     "classication": "negative"
   },
@@ -1478,7 +1372,6 @@
     "hashtags": [],
     "retweets_count": 262,
     "favorite_count": 193,
-    "classification": "",
     "proba": "[0.59239932,0.40760068]",
     "classication": "negative"
   },
@@ -1490,7 +1383,6 @@
     "hashtags": [],
     "retweets_count": 132,
     "favorite_count": 207,
-    "classification": "",
     "proba": "[0.80414085,0.19585915]",
     "classication": "negative"
   },
@@ -1502,7 +1394,6 @@
     "hashtags": [],
     "retweets_count": 1076,
     "favorite_count": 5084,
-    "classification": "",
     "proba": "[0.89249033,0.10750967]",
     "classication": "negative"
   },
@@ -1514,7 +1405,6 @@
     "hashtags": [],
     "retweets_count": 1972,
     "favorite_count": 4167,
-    "classification": "",
     "proba": "[0.79669358,0.20330642]",
     "classication": "negative"
   },
@@ -1526,7 +1416,6 @@
     "hashtags": [],
     "retweets_count": 9,
     "favorite_count": 92,
-    "classification": "",
     "proba": "[0.82531143,0.17468857]",
     "classication": "negative"
   },
@@ -1538,7 +1427,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.86453514,0.13546486]",
     "classication": "negative"
   },
@@ -1550,7 +1438,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.81354955,0.18645045]",
     "classication": "negative"
   },
@@ -1562,7 +1449,6 @@
     "hashtags": [],
     "retweets_count": 702,
     "favorite_count": 3322,
-    "classification": "",
     "proba": "[0.89172978,0.10827022]",
     "classication": "negative"
   },
@@ -1574,7 +1460,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.82382548,0.17617452]",
     "classication": "negative"
   },
@@ -1586,7 +1471,6 @@
     "hashtags": [],
     "retweets_count": 2235,
     "favorite_count": 1938,
-    "classification": "",
     "proba": "[0.7480353,0.2519647]",
     "classication": "negative"
   },
@@ -1598,7 +1482,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.81285383,0.18714617]",
     "classication": "negative"
   },
@@ -1610,7 +1493,6 @@
     "hashtags": [],
     "retweets_count": 50,
     "favorite_count": 163,
-    "classification": "",
     "proba": "[0.72377717,0.27622283]",
     "classication": "negative"
   },
@@ -1622,7 +1504,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 24,
-    "classification": "",
     "proba": "[0.7072331,0.2927669]",
     "classication": "negative"
   },
@@ -1634,7 +1515,6 @@
     "hashtags": [],
     "retweets_count": 882,
     "favorite_count": 3248,
-    "classification": "",
     "proba": "[0.92283701,0.07716299]",
     "classication": "negative"
   },
@@ -1646,7 +1526,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.8597451,0.1402549]",
     "classication": "negative"
   },
@@ -1658,7 +1537,6 @@
     "hashtags": [],
     "retweets_count": 9911,
     "favorite_count": 37509,
-    "classification": "",
     "proba": "[0.75408092,0.24591908]",
     "classication": "negative"
   },
@@ -1670,7 +1548,6 @@
     "hashtags": [],
     "retweets_count": 39,
     "favorite_count": 199,
-    "classification": "",
     "proba": "[0.74224243,0.25775757]",
     "classication": "negative"
   },
@@ -1682,7 +1559,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 37,
-    "classification": "",
     "proba": "[0.7891354,0.2108646]",
     "classication": "negative"
   },
@@ -1694,7 +1570,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 29,
-    "classification": "",
     "proba": "[0.92329612,0.07670388]",
     "classication": "negative"
   },
@@ -1706,7 +1581,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 15,
-    "classification": "",
     "proba": "[0.56959435,0.43040565]",
     "classication": "negative"
   },
@@ -1718,7 +1592,6 @@
     "hashtags": [],
     "retweets_count": 265,
     "favorite_count": 456,
-    "classification": "",
     "proba": "[0.8314576,0.1685424]",
     "classication": "negative"
   },
@@ -1730,7 +1603,6 @@
     "hashtags": [],
     "retweets_count": 23,
     "favorite_count": 87,
-    "classification": "",
     "proba": "[0.82954142,0.17045858]",
     "classication": "negative"
   },
@@ -1742,7 +1614,6 @@
     "hashtags": [],
     "retweets_count": 735,
     "favorite_count": 1963,
-    "classification": "",
     "proba": "[0.87695021,0.12304979]",
     "classication": "negative"
   },
@@ -1754,7 +1625,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -1766,7 +1636,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.79710563,0.20289437]",
     "classication": "negative"
   },
@@ -1778,7 +1647,6 @@
     "hashtags": [],
     "retweets_count": 978,
     "favorite_count": 1578,
-    "classification": "",
     "proba": "[0.80475329,0.19524671]",
     "classication": "negative"
   },
@@ -1790,7 +1658,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 25,
-    "classification": "",
     "proba": "[0.95183674,0.04816326]",
     "classication": "negative"
   },
@@ -1802,7 +1669,6 @@
     "hashtags": [],
     "retweets_count": 10,
     "favorite_count": 21,
-    "classification": "",
     "proba": "[0.86678081,0.13321919]",
     "classication": "negative"
   },
@@ -1814,7 +1680,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.85611871,0.14388129]",
     "classication": "negative"
   },
@@ -1826,7 +1691,6 @@
     "hashtags": [],
     "retweets_count": 110,
     "favorite_count": 26,
-    "classification": "",
     "proba": "[0.79688661,0.20311339]",
     "classication": "negative"
   },
@@ -1838,7 +1702,6 @@
     "hashtags": [],
     "retweets_count": 9,
     "favorite_count": 298,
-    "classification": "",
     "proba": "[0.95183674,0.04816326]",
     "classication": "negative"
   },
@@ -1850,7 +1713,6 @@
     "hashtags": [],
     "retweets_count": 11,
     "favorite_count": 33,
-    "classification": "",
     "proba": "[0.9023769,0.0976231]",
     "classication": "negative"
   },
@@ -1862,7 +1724,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.76462472,0.23537528]",
     "classication": "negative"
   },
@@ -1874,7 +1735,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.59749564,0.40250436]",
     "classication": "negative"
   },
@@ -1894,7 +1754,6 @@
     ],
     "retweets_count": 2409,
     "favorite_count": 2482,
-    "classification": "",
     "proba": "[0.93719014,0.06280986]",
     "classication": "negative"
   },
@@ -1906,7 +1765,6 @@
     "hashtags": [],
     "retweets_count": 37,
     "favorite_count": 618,
-    "classification": "",
     "proba": "[0.83267921,0.16732079]",
     "classication": "negative"
   },
@@ -1926,7 +1784,6 @@
     ],
     "retweets_count": 119,
     "favorite_count": 157,
-    "classification": "",
     "proba": "[0.49551989,0.50448011]",
     "classication": "negative"
   },
@@ -1938,7 +1795,6 @@
     "hashtags": [],
     "retweets_count": 217,
     "favorite_count": 101,
-    "classification": "",
     "proba": "[0.9108596,0.0891404]",
     "classication": "negative"
   },
@@ -1950,7 +1806,6 @@
     "hashtags": [],
     "retweets_count": 47,
     "favorite_count": 277,
-    "classification": "",
     "proba": "[0.86062342,0.13937658]",
     "classication": "negative"
   },
@@ -1962,7 +1817,6 @@
     "hashtags": [],
     "retweets_count": 62,
     "favorite_count": 176,
-    "classification": "",
     "proba": "[0.82197382,0.17802618]",
     "classication": "negative"
   },
@@ -1974,7 +1828,6 @@
     "hashtags": [],
     "retweets_count": 71,
     "favorite_count": 235,
-    "classification": "",
     "proba": "[0.77548866,0.22451134]",
     "classication": "negative"
   },
@@ -1986,7 +1839,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.81188319,0.18811681]",
     "classication": "negative"
   },
@@ -1998,7 +1850,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -2010,7 +1861,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.73294329,0.26705671]",
     "classication": "negative"
   },
@@ -2022,7 +1872,6 @@
     "hashtags": [],
     "retweets_count": 1042,
     "favorite_count": 1482,
-    "classification": "",
     "proba": "[0.79511343,0.20488657]",
     "classication": "negative"
   },
@@ -2042,7 +1891,6 @@
     ],
     "retweets_count": 5,
     "favorite_count": 119,
-    "classification": "",
     "proba": "[0.80472928,0.19527072]",
     "classication": "negative"
   },
@@ -2054,7 +1902,6 @@
     "hashtags": [],
     "retweets_count": 9,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.8374635,0.1625365]",
     "classication": "negative"
   },
@@ -2066,7 +1913,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -2078,7 +1924,6 @@
     "hashtags": [],
     "retweets_count": 36,
     "favorite_count": 96,
-    "classification": "",
     "proba": "[0.77838207,0.22161793]",
     "classication": "negative"
   },
@@ -2090,7 +1935,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.81997587,0.18002413]",
     "classication": "negative"
   },
@@ -2102,7 +1946,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 14,
-    "classification": "",
     "proba": "[0.69781235,0.30218765]",
     "classication": "negative"
   },
@@ -2114,7 +1957,6 @@
     "hashtags": [],
     "retweets_count": 79,
     "favorite_count": 630,
-    "classification": "",
     "proba": "[0.8718069,0.1281931]",
     "classication": "negative"
   },
@@ -2141,7 +1983,6 @@
     ],
     "retweets_count": 82,
     "favorite_count": 729,
-    "classification": "",
     "proba": "[0.81919611,0.18080389]",
     "classication": "negative"
   },
@@ -2153,7 +1994,6 @@
     "hashtags": [],
     "retweets_count": 39,
     "favorite_count": 81,
-    "classification": "",
     "proba": "[0.82030686,0.17969314]",
     "classication": "negative"
   },
@@ -2173,7 +2013,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.78992292,0.21007708]",
     "classication": "negative"
   },
@@ -2185,7 +2024,6 @@
     "hashtags": [],
     "retweets_count": 26,
     "favorite_count": 68,
-    "classification": "",
     "proba": "[0.80804663,0.19195337]",
     "classication": "negative"
   },
@@ -2197,7 +2035,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.57180237,0.42819763]",
     "classication": "negative"
   },
@@ -2209,7 +2046,6 @@
     "hashtags": [],
     "retweets_count": 19,
     "favorite_count": 245,
-    "classification": "",
     "proba": "[0.5873959,0.4126041]",
     "classication": "negative"
   },
@@ -2221,7 +2057,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 39,
-    "classification": "",
     "proba": "[0.76074017,0.23925983]",
     "classication": "negative"
   },
@@ -2233,7 +2068,6 @@
     "hashtags": [],
     "retweets_count": 10,
     "favorite_count": 202,
-    "classification": "",
     "proba": "[0.74380206,0.25619794]",
     "classication": "negative"
   },
@@ -2245,7 +2079,6 @@
     "hashtags": [],
     "retweets_count": 26,
     "favorite_count": 24,
-    "classification": "",
     "proba": "[0.8490105,0.1509895]",
     "classication": "negative"
   },
@@ -2265,7 +2098,6 @@
     ],
     "retweets_count": 328,
     "favorite_count": 1045,
-    "classification": "",
     "proba": "[0.46587008,0.53412992]",
     "classication": "negative"
   },
@@ -2277,7 +2109,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.70207852,0.29792148]",
     "classication": "negative"
   },
@@ -2304,7 +2135,6 @@
     ],
     "retweets_count": 36,
     "favorite_count": 42,
-    "classification": "",
     "proba": "[0.7675837,0.2324163]",
     "classication": "negative"
   },
@@ -2316,7 +2146,6 @@
     "hashtags": [],
     "retweets_count": 17,
     "favorite_count": 32,
-    "classification": "",
     "proba": "[0.71122253,0.28877747]",
     "classication": "negative"
   },
@@ -2328,7 +2157,6 @@
     "hashtags": [],
     "retweets_count": 2964,
     "favorite_count": 6028,
-    "classification": "",
     "proba": "[0.75474257,0.24525743]",
     "classication": "negative"
   },
@@ -2348,7 +2176,6 @@
     ],
     "retweets_count": 7,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.62619486,0.37380514]",
     "classication": "negative"
   },
@@ -2360,7 +2187,6 @@
     "hashtags": [],
     "retweets_count": 192,
     "favorite_count": 221,
-    "classification": "",
     "proba": "[0.86382735,0.13617265]",
     "classication": "negative"
   },
@@ -2372,7 +2198,6 @@
     "hashtags": [],
     "retweets_count": 121,
     "favorite_count": 90,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -2384,7 +2209,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 20,
-    "classification": "",
     "proba": "[0.84291908,0.15708092]",
     "classication": "negative"
   },
@@ -2396,7 +2220,6 @@
     "hashtags": [],
     "retweets_count": 382,
     "favorite_count": 600,
-    "classification": "",
     "proba": "[0.81585685,0.18414315]",
     "classication": "negative"
   },
@@ -2408,7 +2231,6 @@
     "hashtags": [],
     "retweets_count": 247,
     "favorite_count": 285,
-    "classification": "",
     "proba": "[0.60852419,0.39147581]",
     "classication": "negative"
   },
@@ -2420,7 +2242,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.78265787,0.21734213]",
     "classication": "negative"
   },
@@ -2432,7 +2253,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.89329791,0.10670209]",
     "classication": "negative"
   },
@@ -2444,7 +2264,6 @@
     "hashtags": [],
     "retweets_count": 18,
     "favorite_count": 73,
-    "classification": "",
     "proba": "[0.73199165,0.26800835]",
     "classication": "negative"
   },
@@ -2456,7 +2275,6 @@
     "hashtags": [],
     "retweets_count": 245,
     "favorite_count": 365,
-    "classification": "",
     "proba": "[0.89135844,0.10864156]",
     "classication": "negative"
   },
@@ -2468,7 +2286,6 @@
     "hashtags": [],
     "retweets_count": 8596,
     "favorite_count": 12738,
-    "classification": "",
     "proba": "[0.83550527,0.16449473]",
     "classication": "negative"
   },
@@ -2488,7 +2305,6 @@
     ],
     "retweets_count": 27,
     "favorite_count": 56,
-    "classification": "",
     "proba": "[0.75590608,0.24409392]",
     "classication": "negative"
   },
@@ -2500,7 +2316,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.95183674,0.04816326]",
     "classication": "negative"
   },
@@ -2512,7 +2327,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.91947447,0.08052553]",
     "classication": "negative"
   },
@@ -2524,7 +2338,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.8981243,0.1018757]",
     "classication": "negative"
   },
@@ -2536,7 +2349,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 15,
-    "classification": "",
     "proba": "[0.85977252,0.14022748]",
     "classication": "negative"
   },
@@ -2548,7 +2360,6 @@
     "hashtags": [],
     "retweets_count": 33,
     "favorite_count": 49,
-    "classification": "",
     "proba": "[0.89329982,0.10670018]",
     "classication": "negative"
   },
@@ -2560,7 +2371,6 @@
     "hashtags": [],
     "retweets_count": 133,
     "favorite_count": 215,
-    "classification": "",
     "proba": "[0.83971029,0.16028971]",
     "classication": "negative"
   },
@@ -2572,7 +2382,6 @@
     "hashtags": [],
     "retweets_count": 33,
     "favorite_count": 88,
-    "classification": "",
     "proba": "[0.82894762,0.17105238]",
     "classication": "negative"
   },
@@ -2584,7 +2393,6 @@
     "hashtags": [],
     "retweets_count": 430,
     "favorite_count": 963,
-    "classification": "",
     "proba": "[0.76810671,0.23189329]",
     "classication": "negative"
   },
@@ -2596,7 +2404,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 15,
-    "classification": "",
     "proba": "[0.67978306,0.32021694]",
     "classication": "negative"
   },
@@ -2616,7 +2423,6 @@
     ],
     "retweets_count": 26,
     "favorite_count": 18,
-    "classification": "",
     "proba": "[0.70037723,0.29962277]",
     "classication": "negative"
   },
@@ -2628,7 +2434,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.76533786,0.23466214]",
     "classication": "negative"
   },
@@ -2640,7 +2445,6 @@
     "hashtags": [],
     "retweets_count": 155,
     "favorite_count": 302,
-    "classification": "",
     "proba": "[0.77056828,0.22943172]",
     "classication": "negative"
   },
@@ -2652,7 +2456,6 @@
     "hashtags": [],
     "retweets_count": 30,
     "favorite_count": 74,
-    "classification": "",
     "proba": "[0.74715035,0.25284965]",
     "classication": "negative"
   },
@@ -2664,7 +2467,6 @@
     "hashtags": [],
     "retweets_count": 30,
     "favorite_count": 171,
-    "classification": "",
     "proba": "[0.84596204,0.15403796]",
     "classication": "negative"
   },
@@ -2684,7 +2486,6 @@
     ],
     "retweets_count": 191,
     "favorite_count": 187,
-    "classification": "",
     "proba": "[0.74232543,0.25767457]",
     "classication": "negative"
   },
@@ -2696,7 +2497,6 @@
     "hashtags": [],
     "retweets_count": 521,
     "favorite_count": 417,
-    "classification": "",
     "proba": "[0.82634298,0.17365702]",
     "classication": "negative"
   },
@@ -2708,7 +2508,6 @@
     "hashtags": [],
     "retweets_count": 88,
     "favorite_count": 283,
-    "classification": "",
     "proba": "[0.83465416,0.16534584]",
     "classication": "negative"
   },
@@ -2720,7 +2519,6 @@
     "hashtags": [],
     "retweets_count": 10,
     "favorite_count": 353,
-    "classification": "",
     "proba": "[0.86827454,0.13172546]",
     "classication": "negative"
   },
@@ -2732,7 +2530,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.89754381,0.10245619]",
     "classication": "negative"
   },
@@ -2744,7 +2541,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.78812634,0.21187366]",
     "classication": "negative"
   },
@@ -2756,7 +2552,6 @@
     "hashtags": [],
     "retweets_count": 47,
     "favorite_count": 63,
-    "classification": "",
     "proba": "[0.6981953,0.3018047]",
     "classication": "negative"
   },
@@ -2768,7 +2563,6 @@
     "hashtags": [],
     "retweets_count": 164,
     "favorite_count": 411,
-    "classification": "",
     "proba": "[0.72935728,0.27064272]",
     "classication": "negative"
   },
@@ -2780,7 +2574,6 @@
     "hashtags": [],
     "retweets_count": 433,
     "favorite_count": 7578,
-    "classification": "",
     "proba": "[0.75883774,0.24116226]",
     "classication": "negative"
   },
@@ -2792,7 +2585,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.67019566,0.32980434]",
     "classication": "negative"
   },
@@ -2804,7 +2596,6 @@
     "hashtags": [],
     "retweets_count": 1868,
     "favorite_count": 6500,
-    "classification": "",
     "proba": "[0.79564379,0.20435621]",
     "classication": "negative"
   },
@@ -2816,7 +2607,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.82064591,0.17935409]",
     "classication": "negative"
   },
@@ -2828,7 +2618,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.76682362,0.23317638]",
     "classication": "negative"
   },
@@ -2840,7 +2629,6 @@
     "hashtags": [],
     "retweets_count": 11991,
     "favorite_count": 51929,
-    "classification": "",
     "proba": "[0.70122945,0.29877055]",
     "classication": "negative"
   },
@@ -2852,7 +2640,6 @@
     "hashtags": [],
     "retweets_count": 2261,
     "favorite_count": 5696,
-    "classification": "",
     "proba": "[0.86366139,0.13633861]",
     "classication": "negative"
   },
@@ -2864,7 +2651,6 @@
     "hashtags": [],
     "retweets_count": 52,
     "favorite_count": 57,
-    "classification": "",
     "proba": "[0.79838082,0.20161918]",
     "classication": "negative"
   },
@@ -2876,7 +2662,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.85050695,0.14949305]",
     "classication": "negative"
   },
@@ -2896,7 +2681,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.86208438,0.13791562]",
     "classication": "negative"
   },
@@ -2908,7 +2692,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.62398247,0.37601753]",
     "classication": "negative"
   },
@@ -2920,7 +2703,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.89768547,0.10231453]",
     "classication": "negative"
   },
@@ -2932,7 +2714,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.88731762,0.11268238]",
     "classication": "negative"
   },
@@ -2944,7 +2725,6 @@
     "hashtags": [],
     "retweets_count": 787,
     "favorite_count": 1691,
-    "classification": "",
     "proba": "[0.65788459,0.34211541]",
     "classication": "negative"
   },
@@ -2956,7 +2736,6 @@
     "hashtags": [],
     "retweets_count": 42,
     "favorite_count": 44,
-    "classification": "",
     "proba": "[0.88428977,0.11571023]",
     "classication": "negative"
   },
@@ -2968,7 +2747,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.6763414,0.3236586]",
     "classication": "negative"
   },
@@ -2980,7 +2758,6 @@
     "hashtags": [],
     "retweets_count": 17,
     "favorite_count": 87,
-    "classification": "",
     "proba": "[0.82291308,0.17708692]",
     "classication": "negative"
   },
@@ -2992,7 +2769,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 65,
-    "classification": "",
     "proba": "[0.8378273,0.1621727]",
     "classication": "negative"
   },
@@ -3004,7 +2780,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 207,
-    "classification": "",
     "proba": "[0.72898521,0.27101479]",
     "classication": "negative"
   },
@@ -3024,7 +2799,6 @@
     ],
     "retweets_count": 66,
     "favorite_count": 21,
-    "classification": "",
     "proba": "[0.7984529,0.2015471]",
     "classication": "negative"
   },
@@ -3036,7 +2810,6 @@
     "hashtags": [],
     "retweets_count": 13637,
     "favorite_count": 5912,
-    "classification": "",
     "proba": "[0.61300662,0.38699338]",
     "classication": "negative"
   },
@@ -3048,7 +2821,6 @@
     "hashtags": [],
     "retweets_count": 517,
     "favorite_count": 2513,
-    "classification": "",
     "proba": "[0.84251941,0.15748059]",
     "classication": "negative"
   },
@@ -3060,7 +2832,6 @@
     "hashtags": [],
     "retweets_count": 23,
     "favorite_count": 14,
-    "classification": "",
     "proba": "[0.72844429,0.27155571]",
     "classication": "negative"
   },
@@ -3072,7 +2843,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 23,
-    "classification": "",
     "proba": "[0.8378273,0.1621727]",
     "classication": "negative"
   },
@@ -3084,7 +2854,6 @@
     "hashtags": [],
     "retweets_count": 16940,
     "favorite_count": 30316,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -3096,7 +2865,6 @@
     "hashtags": [],
     "retweets_count": 21,
     "favorite_count": 15,
-    "classification": "",
     "proba": "[0.73775727,0.26224273]",
     "classication": "negative"
   },
@@ -3108,7 +2876,6 @@
     "hashtags": [],
     "retweets_count": 647,
     "favorite_count": 1203,
-    "classification": "",
     "proba": "[0.87560879,0.12439121]",
     "classication": "negative"
   },
@@ -3120,7 +2887,6 @@
     "hashtags": [],
     "retweets_count": 644,
     "favorite_count": 349,
-    "classification": "",
     "proba": "[0.79434563,0.20565437]",
     "classication": "negative"
   },
@@ -3132,7 +2898,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.82944493,0.17055507]",
     "classication": "negative"
   },
@@ -3144,7 +2909,6 @@
     "hashtags": [],
     "retweets_count": 1800,
     "favorite_count": 4765,
-    "classification": "",
     "proba": "[0.72270815,0.27729185]",
     "classication": "negative"
   },
@@ -3156,7 +2920,6 @@
     "hashtags": [],
     "retweets_count": 480,
     "favorite_count": 1011,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -3168,7 +2931,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.50321993,0.49678007]",
     "classication": "negative"
   },
@@ -3180,7 +2942,6 @@
     "hashtags": [],
     "retweets_count": 23,
     "favorite_count": 51,
-    "classification": "",
     "proba": "[0.85975348,0.14024652]",
     "classication": "negative"
   },
@@ -3192,7 +2953,6 @@
     "hashtags": [],
     "retweets_count": 25,
     "favorite_count": 55,
-    "classification": "",
     "proba": "[0.883905,0.116095]",
     "classication": "negative"
   },
@@ -3204,7 +2964,6 @@
     "hashtags": [],
     "retweets_count": 5824,
     "favorite_count": 13076,
-    "classification": "",
     "proba": "[0.83593707,0.16406293]",
     "classication": "negative"
   },
@@ -3216,7 +2975,6 @@
     "hashtags": [],
     "retweets_count": 586,
     "favorite_count": 891,
-    "classification": "",
     "proba": "[0.72923653,0.27076347]",
     "classication": "negative"
   },
@@ -3228,7 +2986,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.64730239,0.35269761]",
     "classication": "negative"
   },
@@ -3240,7 +2997,6 @@
     "hashtags": [],
     "retweets_count": 2247,
     "favorite_count": 2690,
-    "classification": "",
     "proba": "[0.83297769,0.16702231]",
     "classication": "negative"
   },
@@ -3252,7 +3008,6 @@
     "hashtags": [],
     "retweets_count": 27,
     "favorite_count": 108,
-    "classification": "",
     "proba": "[0.70255671,0.29744329]",
     "classication": "negative"
   },
@@ -3264,7 +3019,6 @@
     "hashtags": [],
     "retweets_count": 31,
     "favorite_count": 38,
-    "classification": "",
     "proba": "[0.86711431,0.13288569]",
     "classication": "negative"
   },
@@ -3276,7 +3030,6 @@
     "hashtags": [],
     "retweets_count": 31,
     "favorite_count": 79,
-    "classification": "",
     "proba": "[0.6048621,0.3951379]",
     "classication": "negative"
   },
@@ -3288,7 +3041,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.90363973,0.09636027]",
     "classication": "negative"
   },
@@ -3308,7 +3060,6 @@
     ],
     "retweets_count": 3,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.79750574,0.20249426]",
     "classication": "negative"
   },
@@ -3320,7 +3071,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 78,
-    "classification": "",
     "proba": "[0.90235643,0.09764357]",
     "classication": "negative"
   },
@@ -3332,7 +3082,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.90813591,0.09186409]",
     "classication": "negative"
   },
@@ -3352,7 +3101,6 @@
     ],
     "retweets_count": 34,
     "favorite_count": 44,
-    "classification": "",
     "proba": "[0.9036772,0.0963228]",
     "classication": "negative"
   },
@@ -3364,7 +3112,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.72868785,0.27131215]",
     "classication": "negative"
   },
@@ -3376,7 +3123,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 50,
-    "classification": "",
     "proba": "[0.83106285,0.16893715]",
     "classication": "negative"
   },
@@ -3388,7 +3134,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 36,
-    "classification": "",
     "proba": "[0.66706894,0.33293106]",
     "classication": "negative"
   },
@@ -3400,7 +3145,6 @@
     "hashtags": [],
     "retweets_count": 114,
     "favorite_count": 183,
-    "classification": "",
     "proba": "[0.86085824,0.13914176]",
     "classication": "negative"
   },
@@ -3412,7 +3156,6 @@
     "hashtags": [],
     "retweets_count": 40,
     "favorite_count": 63,
-    "classification": "",
     "proba": "[0.70026414,0.29973586]",
     "classication": "negative"
   },
@@ -3424,7 +3167,6 @@
     "hashtags": [],
     "retweets_count": 346,
     "favorite_count": 1941,
-    "classification": "",
     "proba": "[0.7685621,0.2314379]",
     "classication": "negative"
   },
@@ -3436,7 +3178,6 @@
     "hashtags": [],
     "retweets_count": 147,
     "favorite_count": 236,
-    "classification": "",
     "proba": "[0.77403182,0.22596818]",
     "classication": "negative"
   },
@@ -3448,7 +3189,6 @@
     "hashtags": [],
     "retweets_count": 3634,
     "favorite_count": 4460,
-    "classification": "",
     "proba": "[0.86011965,0.13988035]",
     "classication": "negative"
   },
@@ -3496,7 +3236,6 @@
     ],
     "retweets_count": 177,
     "favorite_count": 47,
-    "classification": "",
     "proba": "[0.75370104,0.24629896]",
     "classication": "negative"
   },
@@ -3508,7 +3247,6 @@
     "hashtags": [],
     "retweets_count": 22,
     "favorite_count": 57,
-    "classification": "",
     "proba": "[0.69036614,0.30963386]",
     "classication": "negative"
   },
@@ -3520,7 +3258,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.77416866,0.22583134]",
     "classication": "negative"
   },
@@ -3532,7 +3269,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 33,
-    "classification": "",
     "proba": "[0.84902296,0.15097704]",
     "classication": "negative"
   },
@@ -3544,7 +3280,6 @@
     "hashtags": [],
     "retweets_count": 22,
     "favorite_count": 24,
-    "classification": "",
     "proba": "[0.75734333,0.24265667]",
     "classication": "negative"
   },
@@ -3564,7 +3299,6 @@
     ],
     "retweets_count": 160,
     "favorite_count": 114,
-    "classification": "",
     "proba": "[0.92079997,0.07920003]",
     "classication": "negative"
   },
@@ -3576,7 +3310,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.77612518,0.22387482]",
     "classication": "negative"
   },
@@ -3588,7 +3321,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.68736583,0.31263417]",
     "classication": "negative"
   },
@@ -3600,7 +3332,6 @@
     "hashtags": [],
     "retweets_count": 361,
     "favorite_count": 346,
-    "classification": "",
     "proba": "[0.88407326,0.11592674]",
     "classication": "negative"
   },
@@ -3612,7 +3343,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.7701605,0.2298395]",
     "classication": "negative"
   },
@@ -3624,7 +3354,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.78574477,0.21425523]",
     "classication": "negative"
   },
@@ -3636,7 +3365,6 @@
     "hashtags": [],
     "retweets_count": 10,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.85800884,0.14199116]",
     "classication": "negative"
   },
@@ -3648,7 +3376,6 @@
     "hashtags": [],
     "retweets_count": 37,
     "favorite_count": 226,
-    "classification": "",
     "proba": "[0.84975205,0.15024795]",
     "classication": "negative"
   },
@@ -3660,7 +3387,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 57,
-    "classification": "",
     "proba": "[0.48785477,0.51214523]",
     "classication": "negative"
   },
@@ -3694,7 +3420,6 @@
     ],
     "retweets_count": 23,
     "favorite_count": 19,
-    "classification": "",
     "proba": "[0.81771374,0.18228626]",
     "classication": "negative"
   },
@@ -3706,7 +3431,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.8378273,0.1621727]",
     "classication": "negative"
   },
@@ -3754,7 +3478,6 @@
     ],
     "retweets_count": 9,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.87024404,0.12975596]",
     "classication": "negative"
   },
@@ -3766,7 +3489,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.80324304,0.19675696]",
     "classication": "negative"
   },
@@ -3778,7 +3500,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.63802008,0.36197992]",
     "classication": "negative"
   },
@@ -3790,7 +3511,6 @@
     "hashtags": [],
     "retweets_count": 415,
     "favorite_count": 579,
-    "classification": "",
     "proba": "[0.80475347,0.19524653]",
     "classication": "negative"
   },
@@ -3802,7 +3522,6 @@
     "hashtags": [],
     "retweets_count": 59,
     "favorite_count": 36,
-    "classification": "",
     "proba": "[0.86725256,0.13274744]",
     "classication": "negative"
   },
@@ -3814,7 +3533,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 105,
-    "classification": "",
     "proba": "[0.86494788,0.13505212]",
     "classication": "negative"
   },
@@ -3841,7 +3559,6 @@
     ],
     "retweets_count": 2,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.84524794,0.15475206]",
     "classication": "negative"
   },
@@ -3853,7 +3570,6 @@
     "hashtags": [],
     "retweets_count": 58,
     "favorite_count": 138,
-    "classification": "",
     "proba": "[0.87254942,0.12745058]",
     "classication": "negative"
   },
@@ -3865,7 +3581,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.91767993,0.08232007]",
     "classication": "negative"
   },
@@ -3877,7 +3592,6 @@
     "hashtags": [],
     "retweets_count": 386,
     "favorite_count": 1029,
-    "classification": "",
     "proba": "[0.8378273,0.1621727]",
     "classication": "negative"
   },
@@ -3889,7 +3603,6 @@
     "hashtags": [],
     "retweets_count": 103,
     "favorite_count": 157,
-    "classification": "",
     "proba": "[0.84586735,0.15413265]",
     "classication": "negative"
   },
@@ -3901,7 +3614,6 @@
     "hashtags": [],
     "retweets_count": 143,
     "favorite_count": 413,
-    "classification": "",
     "proba": "[0.74777558,0.25222442]",
     "classication": "negative"
   },
@@ -3913,7 +3625,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 54,
-    "classification": "",
     "proba": "[0.69734376,0.30265624]",
     "classication": "negative"
   },
@@ -3925,7 +3636,6 @@
     "hashtags": [],
     "retweets_count": 210,
     "favorite_count": 840,
-    "classification": "",
     "proba": "[0.69883171,0.30116829]",
     "classication": "negative"
   },
@@ -3937,7 +3647,6 @@
     "hashtags": [],
     "retweets_count": 441,
     "favorite_count": 2037,
-    "classification": "",
     "proba": "[0.80789215,0.19210785]",
     "classication": "negative"
   },
@@ -3949,7 +3658,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.85369201,0.14630799]",
     "classication": "negative"
   },
@@ -3961,7 +3669,6 @@
     "hashtags": [],
     "retweets_count": 28,
     "favorite_count": 37,
-    "classification": "",
     "proba": "[0.70132084,0.29867916]",
     "classication": "negative"
   },
@@ -3973,7 +3680,6 @@
     "hashtags": [],
     "retweets_count": 61,
     "favorite_count": 350,
-    "classification": "",
     "proba": "[0.69839454,0.30160546]",
     "classication": "negative"
   },
@@ -3985,7 +3691,6 @@
     "hashtags": [],
     "retweets_count": 26,
     "favorite_count": 206,
-    "classification": "",
     "proba": "[0.89867849,0.10132151]",
     "classication": "negative"
   },
@@ -3997,7 +3702,6 @@
     "hashtags": [],
     "retweets_count": 147,
     "favorite_count": 1107,
-    "classification": "",
     "proba": "[0.82125024,0.17874976]",
     "classication": "negative"
   },
@@ -4009,7 +3713,6 @@
     "hashtags": [],
     "retweets_count": 58,
     "favorite_count": 259,
-    "classification": "",
     "proba": "[0.70921604,0.29078396]",
     "classication": "negative"
   },
@@ -4021,7 +3724,6 @@
     "hashtags": [],
     "retweets_count": 206,
     "favorite_count": 4875,
-    "classification": "",
     "proba": "[0.73936656,0.26063344]",
     "classication": "negative"
   },
@@ -4033,7 +3735,6 @@
     "hashtags": [],
     "retweets_count": 1958,
     "favorite_count": 9699,
-    "classification": "",
     "proba": "[0.71387148,0.28612852]",
     "classication": "negative"
   },
@@ -4045,7 +3746,6 @@
     "hashtags": [],
     "retweets_count": 1084,
     "favorite_count": 3996,
-    "classification": "",
     "proba": "[0.53158126,0.46841874]",
     "classication": "negative"
   },
@@ -4072,7 +3772,6 @@
     ],
     "retweets_count": 19,
     "favorite_count": 66,
-    "classification": "",
     "proba": "[0.7823348,0.2176652]",
     "classication": "negative"
   },
@@ -4106,7 +3805,6 @@
     ],
     "retweets_count": 5,
     "favorite_count": 50,
-    "classification": "",
     "proba": "[0.61031458,0.38968542]",
     "classication": "negative"
   },
@@ -4118,7 +3816,6 @@
     "hashtags": [],
     "retweets_count": 70,
     "favorite_count": 48,
-    "classification": "",
     "proba": "[0.65828953,0.34171047]",
     "classication": "negative"
   },
@@ -4130,7 +3827,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.87514895,0.12485105]",
     "classication": "negative"
   },
@@ -4185,7 +3881,6 @@
     ],
     "retweets_count": 13,
     "favorite_count": 20,
-    "classification": "",
     "proba": "[0.73448658,0.26551342]",
     "classication": "negative"
   },
@@ -4197,7 +3892,6 @@
     "hashtags": [],
     "retweets_count": 389,
     "favorite_count": 1587,
-    "classification": "",
     "proba": "[0.8775306,0.1224694]",
     "classication": "negative"
   },
@@ -4209,7 +3903,6 @@
     "hashtags": [],
     "retweets_count": 112,
     "favorite_count": 269,
-    "classification": "",
     "proba": "[0.76450603,0.23549397]",
     "classication": "negative"
   },
@@ -4221,7 +3914,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.89349476,0.10650524]",
     "classication": "negative"
   },
@@ -4233,7 +3925,6 @@
     "hashtags": [],
     "retweets_count": 175,
     "favorite_count": 389,
-    "classification": "",
     "proba": "[0.81889246,0.18110754]",
     "classication": "negative"
   },
@@ -4245,7 +3936,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.82728897,0.17271103]",
     "classication": "negative"
   },
@@ -4257,7 +3947,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.80934584,0.19065416]",
     "classication": "negative"
   },
@@ -4269,7 +3958,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.8120827,0.1879173]",
     "classication": "negative"
   },
@@ -4281,7 +3969,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.68874018,0.31125982]",
     "classication": "negative"
   },
@@ -4293,7 +3980,6 @@
     "hashtags": [],
     "retweets_count": 369,
     "favorite_count": 620,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -4305,7 +3991,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.73085715,0.26914285]",
     "classication": "negative"
   },
@@ -4317,7 +4002,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.70810249,0.29189751]",
     "classication": "negative"
   },
@@ -4329,7 +4013,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.61894296,0.38105704]",
     "classication": "negative"
   },
@@ -4341,7 +4024,6 @@
     "hashtags": [],
     "retweets_count": 17854,
     "favorite_count": 35070,
-    "classification": "",
     "proba": "[0.88261571,0.11738429]",
     "classication": "negative"
   },
@@ -4353,7 +4035,6 @@
     "hashtags": [],
     "retweets_count": 82,
     "favorite_count": 142,
-    "classification": "",
     "proba": "[0.80414085,0.19585915]",
     "classication": "negative"
   },
@@ -4365,7 +4046,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.89363142,0.10636858]",
     "classication": "negative"
   },
@@ -4377,7 +4057,6 @@
     "hashtags": [],
     "retweets_count": 193,
     "favorite_count": 91,
-    "classification": "",
     "proba": "[0.65642869,0.34357131]",
     "classication": "negative"
   },
@@ -4397,7 +4076,6 @@
     ],
     "retweets_count": 321,
     "favorite_count": 88,
-    "classification": "",
     "proba": "[0.86958563,0.13041437]",
     "classication": "negative"
   },
@@ -4409,7 +4087,6 @@
     "hashtags": [],
     "retweets_count": 103,
     "favorite_count": 268,
-    "classification": "",
     "proba": "[0.83518166,0.16481834]",
     "classication": "negative"
   },
@@ -4421,7 +4098,6 @@
     "hashtags": [],
     "retweets_count": 31,
     "favorite_count": 186,
-    "classification": "",
     "proba": "[0.84043787,0.15956213]",
     "classication": "negative"
   },
@@ -4433,7 +4109,6 @@
     "hashtags": [],
     "retweets_count": 16,
     "favorite_count": 141,
-    "classification": "",
     "proba": "[0.65953855,0.34046145]",
     "classication": "negative"
   },
@@ -4445,7 +4120,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -4457,7 +4131,6 @@
     "hashtags": [],
     "retweets_count": 11,
     "favorite_count": 14,
-    "classification": "",
     "proba": "[0.81714613,0.18285387]",
     "classication": "negative"
   },
@@ -4491,7 +4164,6 @@
     ],
     "retweets_count": 37639,
     "favorite_count": 143447,
-    "classification": "",
     "proba": "[0.75989161,0.24010839]",
     "classication": "negative"
   },
@@ -4503,7 +4175,6 @@
     "hashtags": [],
     "retweets_count": 7666,
     "favorite_count": 9497,
-    "classification": "",
     "proba": "[0.85583653,0.14416347]",
     "classication": "negative"
   },
@@ -4515,7 +4186,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.63802008,0.36197992]",
     "classication": "negative"
   },
@@ -4527,7 +4197,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.59529602,0.40470398]",
     "classication": "negative"
   },
@@ -4539,7 +4208,6 @@
     "hashtags": [],
     "retweets_count": 257,
     "favorite_count": 499,
-    "classification": "",
     "proba": "[0.9478992,0.0521008]",
     "classication": "negative"
   },
@@ -4551,7 +4219,6 @@
     "hashtags": [],
     "retweets_count": 80,
     "favorite_count": 193,
-    "classification": "",
     "proba": "[0.80297463,0.19702537]",
     "classication": "negative"
   },
@@ -4571,7 +4238,6 @@
     ],
     "retweets_count": 4,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.8769298,0.1230702]",
     "classication": "negative"
   },
@@ -4591,7 +4257,6 @@
     ],
     "retweets_count": 40,
     "favorite_count": 122,
-    "classification": "",
     "proba": "[0.76691564,0.23308436]",
     "classication": "negative"
   },
@@ -4603,7 +4268,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.68506471,0.31493529]",
     "classication": "negative"
   },
@@ -4615,7 +4279,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 30,
-    "classification": "",
     "proba": "[0.81049172,0.18950828]",
     "classication": "negative"
   },
@@ -4627,7 +4290,6 @@
     "hashtags": [],
     "retweets_count": 177,
     "favorite_count": 265,
-    "classification": "",
     "proba": "[0.84893974,0.15106026]",
     "classication": "negative"
   },
@@ -4661,7 +4323,6 @@
     ],
     "retweets_count": 25,
     "favorite_count": 71,
-    "classification": "",
     "proba": "[0.87660849,0.12339151]",
     "classication": "negative"
   },
@@ -4673,7 +4334,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.85258698,0.14741302]",
     "classication": "negative"
   },
@@ -4685,7 +4345,6 @@
     "hashtags": [],
     "retweets_count": 831,
     "favorite_count": 1476,
-    "classification": "",
     "proba": "[0.68101711,0.31898289]",
     "classication": "negative"
   },
@@ -4697,7 +4356,6 @@
     "hashtags": [],
     "retweets_count": 23,
     "favorite_count": 24,
-    "classification": "",
     "proba": "[0.74278888,0.25721112]",
     "classication": "negative"
   },
@@ -4709,7 +4367,6 @@
     "hashtags": [],
     "retweets_count": 14237,
     "favorite_count": 40574,
-    "classification": "",
     "proba": "[0.83407922,0.16592078]",
     "classication": "negative"
   },
@@ -4721,7 +4378,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.70606527,0.29393473]",
     "classication": "negative"
   },
@@ -4733,7 +4389,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.76741585,0.23258415]",
     "classication": "negative"
   },
@@ -4745,7 +4400,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.80890302,0.19109698]",
     "classication": "negative"
   },
@@ -4757,7 +4411,6 @@
     "hashtags": [],
     "retweets_count": 1281,
     "favorite_count": 1468,
-    "classification": "",
     "proba": "[0.86094052,0.13905948]",
     "classication": "negative"
   },
@@ -4777,7 +4430,6 @@
     ],
     "retweets_count": 8,
     "favorite_count": 27,
-    "classification": "",
     "proba": "[0.79883552,0.20116448]",
     "classication": "negative"
   },
@@ -4789,7 +4441,6 @@
     "hashtags": [],
     "retweets_count": 135,
     "favorite_count": 243,
-    "classification": "",
     "proba": "[0.80414085,0.19585915]",
     "classication": "negative"
   },
@@ -4801,7 +4452,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.78269189,0.21730811]",
     "classication": "negative"
   },
@@ -4813,7 +4463,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 22,
-    "classification": "",
     "proba": "[0.6028421,0.3971579]",
     "classication": "negative"
   },
@@ -4825,7 +4474,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.73416256,0.26583744]",
     "classication": "negative"
   },
@@ -4837,7 +4485,6 @@
     "hashtags": [],
     "retweets_count": 25,
     "favorite_count": 237,
-    "classification": "",
     "proba": "[0.53581501,0.46418499]",
     "classication": "negative"
   },
@@ -4849,7 +4496,6 @@
     "hashtags": [],
     "retweets_count": 38,
     "favorite_count": 50,
-    "classification": "",
     "proba": "[0.77751398,0.22248602]",
     "classication": "negative"
   },
@@ -4869,7 +4515,6 @@
     ],
     "retweets_count": 5931,
     "favorite_count": 5352,
-    "classification": "",
     "proba": "[0.77868296,0.22131704]",
     "classication": "negative"
   },
@@ -4881,7 +4526,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.66907334,0.33092666]",
     "classication": "negative"
   },
@@ -4893,7 +4537,6 @@
     "hashtags": [],
     "retweets_count": 11860,
     "favorite_count": 29507,
-    "classification": "",
     "proba": "[0.91272486,0.08727514]",
     "classication": "negative"
   },
@@ -4905,7 +4548,6 @@
     "hashtags": [],
     "retweets_count": 17,
     "favorite_count": 53,
-    "classification": "",
     "proba": "[0.90116928,0.09883072]",
     "classication": "negative"
   },
@@ -4917,7 +4559,6 @@
     "hashtags": [],
     "retweets_count": 15,
     "favorite_count": 475,
-    "classification": "",
     "proba": "[0.85102179,0.14897821]",
     "classication": "negative"
   },
@@ -4929,7 +4570,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 23,
-    "classification": "",
     "proba": "[0.76915287,0.23084713]",
     "classication": "negative"
   },
@@ -4941,7 +4581,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.86094052,0.13905948]",
     "classication": "negative"
   },
@@ -4953,7 +4592,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.89175152,0.10824848]",
     "classication": "negative"
   },
@@ -4973,7 +4611,6 @@
     ],
     "retweets_count": 3,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.71241864,0.28758136]",
     "classication": "negative"
   },
@@ -4985,7 +4622,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.78272716,0.21727284]",
     "classication": "negative"
   },
@@ -4997,7 +4633,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 25,
-    "classification": "",
     "proba": "[0.86769804,0.13230196]",
     "classication": "negative"
   },
@@ -5009,7 +4644,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.94031254,0.05968746]",
     "classication": "negative"
   },
@@ -5021,7 +4655,6 @@
     "hashtags": [],
     "retweets_count": 26,
     "favorite_count": 62,
-    "classification": "",
     "proba": "[0.92773412,0.07226588]",
     "classication": "negative"
   },
@@ -5033,7 +4666,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.63802008,0.36197992]",
     "classication": "negative"
   },
@@ -5045,7 +4677,6 @@
     "hashtags": [],
     "retweets_count": 33,
     "favorite_count": 424,
-    "classification": "",
     "proba": "[0.82270561,0.17729439]",
     "classication": "negative"
   },
@@ -5057,7 +4688,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.84753634,0.15246366]",
     "classication": "negative"
   },
@@ -5069,7 +4699,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.76248017,0.23751983]",
     "classication": "negative"
   },
@@ -5081,7 +4710,6 @@
     "hashtags": [],
     "retweets_count": 117,
     "favorite_count": 78,
-    "classification": "",
     "proba": "[0.75132492,0.24867508]",
     "classication": "negative"
   },
@@ -5093,7 +4721,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.51353326,0.48646674]",
     "classication": "negative"
   },
@@ -5105,7 +4732,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.80276732,0.19723268]",
     "classication": "negative"
   },
@@ -5139,7 +4765,6 @@
     ],
     "retweets_count": 2,
     "favorite_count": 19,
-    "classification": "",
     "proba": "[0.85997619,0.14002381]",
     "classication": "negative"
   },
@@ -5151,7 +4776,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -5163,7 +4787,6 @@
     "hashtags": [],
     "retweets_count": 6153,
     "favorite_count": 12648,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -5175,7 +4798,6 @@
     "hashtags": [],
     "retweets_count": 25,
     "favorite_count": 67,
-    "classification": "",
     "proba": "[0.82299004,0.17700996]",
     "classication": "negative"
   },
@@ -5195,7 +4817,6 @@
     ],
     "retweets_count": 2,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.91867011,0.08132989]",
     "classication": "negative"
   },
@@ -5207,7 +4828,6 @@
     "hashtags": [],
     "retweets_count": 19,
     "favorite_count": 34,
-    "classification": "",
     "proba": "[0.89856096,0.10143904]",
     "classication": "negative"
   },
@@ -5219,7 +4839,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.52223661,0.47776339]",
     "classication": "negative"
   },
@@ -5231,7 +4850,6 @@
     "hashtags": [],
     "retweets_count": 216,
     "favorite_count": 704,
-    "classification": "",
     "proba": "[0.69682527,0.30317473]",
     "classication": "negative"
   },
@@ -5272,7 +4890,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.75945319,0.24054681]",
     "classication": "negative"
   },
@@ -5292,7 +4909,6 @@
     ],
     "retweets_count": 27,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.84076976,0.15923024]",
     "classication": "negative"
   },
@@ -5304,7 +4920,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.87679318,0.12320682]",
     "classication": "negative"
   },
@@ -5316,7 +4931,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.63574189,0.36425811]",
     "classication": "negative"
   },
@@ -5328,7 +4942,6 @@
     "hashtags": [],
     "retweets_count": 49,
     "favorite_count": 64,
-    "classification": "",
     "proba": "[0.85461829,0.14538171]",
     "classication": "negative"
   },
@@ -5340,7 +4953,6 @@
     "hashtags": [],
     "retweets_count": 1499,
     "favorite_count": 3627,
-    "classification": "",
     "proba": "[0.84027427,0.15972573]",
     "classication": "negative"
   },
@@ -5352,7 +4964,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 20,
-    "classification": "",
     "proba": "[0.71356422,0.28643578]",
     "classication": "negative"
   },
@@ -5364,7 +4975,6 @@
     "hashtags": [],
     "retweets_count": 83,
     "favorite_count": 490,
-    "classification": "",
     "proba": "[0.66185965,0.33814035]",
     "classication": "negative"
   },
@@ -5384,7 +4994,6 @@
     ],
     "retweets_count": 26,
     "favorite_count": 77,
-    "classification": "",
     "proba": "[0.68947221,0.31052779]",
     "classication": "negative"
   },
@@ -5404,7 +5013,6 @@
     ],
     "retweets_count": 7,
     "favorite_count": 35,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -5416,7 +5024,6 @@
     "hashtags": [],
     "retweets_count": 10,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.88245017,0.11754983]",
     "classication": "negative"
   },
@@ -5428,7 +5035,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.73539902,0.26460098]",
     "classication": "negative"
   },
@@ -5440,7 +5046,6 @@
     "hashtags": [],
     "retweets_count": 229,
     "favorite_count": 1109,
-    "classification": "",
     "proba": "[0.81229088,0.18770912]",
     "classication": "negative"
   },
@@ -5452,7 +5057,6 @@
     "hashtags": [],
     "retweets_count": 125,
     "favorite_count": 1323,
-    "classification": "",
     "proba": "[0.76816142,0.23183858]",
     "classication": "negative"
   },
@@ -5464,7 +5068,6 @@
     "hashtags": [],
     "retweets_count": 11,
     "favorite_count": 34,
-    "classification": "",
     "proba": "[0.90427543,0.09572457]",
     "classication": "negative"
   },
@@ -5476,7 +5079,6 @@
     "hashtags": [],
     "retweets_count": 49,
     "favorite_count": 137,
-    "classification": "",
     "proba": "[0.7008492,0.2991508]",
     "classication": "negative"
   },
@@ -5488,7 +5090,6 @@
     "hashtags": [],
     "retweets_count": 217,
     "favorite_count": 523,
-    "classification": "",
     "proba": "[0.88383329,0.11616671]",
     "classication": "negative"
   },
@@ -5500,7 +5101,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.78639525,0.21360475]",
     "classication": "negative"
   },
@@ -5512,7 +5112,6 @@
     "hashtags": [],
     "retweets_count": 11,
     "favorite_count": 71,
-    "classification": "",
     "proba": "[0.90232152,0.09767848]",
     "classication": "negative"
   },
@@ -5524,7 +5123,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 20,
-    "classification": "",
     "proba": "[0.92380982,0.07619018]",
     "classication": "negative"
   },
@@ -5536,7 +5134,6 @@
     "hashtags": [],
     "retweets_count": 16,
     "favorite_count": 33,
-    "classification": "",
     "proba": "[0.87752995,0.12247005]",
     "classication": "negative"
   },
@@ -5548,7 +5145,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.77551847,0.22448153]",
     "classication": "negative"
   },
@@ -5560,7 +5156,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 176,
-    "classification": "",
     "proba": "[0.75567775,0.24432225]",
     "classication": "negative"
   },
@@ -5572,7 +5167,6 @@
     "hashtags": [],
     "retweets_count": 1752,
     "favorite_count": 4985,
-    "classification": "",
     "proba": "[0.83552302,0.16447698]",
     "classication": "negative"
   },
@@ -5584,7 +5178,6 @@
     "hashtags": [],
     "retweets_count": 48,
     "favorite_count": 258,
-    "classification": "",
     "proba": "[0.80112655,0.19887345]",
     "classication": "negative"
   },
@@ -5604,7 +5197,6 @@
     ],
     "retweets_count": 103,
     "favorite_count": 195,
-    "classification": "",
     "proba": "[0.90440941,0.09559059]",
     "classication": "negative"
   },
@@ -5616,7 +5208,6 @@
     "hashtags": [],
     "retweets_count": 115,
     "favorite_count": 223,
-    "classification": "",
     "proba": "[0.8384601,0.1615399]",
     "classication": "negative"
   },
@@ -5628,7 +5219,6 @@
     "hashtags": [],
     "retweets_count": 17,
     "favorite_count": 79,
-    "classification": "",
     "proba": "[0.63802008,0.36197992]",
     "classication": "negative"
   },
@@ -5640,7 +5230,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 58,
-    "classification": "",
     "proba": "[0.78486929,0.21513071]",
     "classication": "negative"
   },
@@ -5652,7 +5241,6 @@
     "hashtags": [],
     "retweets_count": 30,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.82686655,0.17313345]",
     "classication": "negative"
   },
@@ -5664,7 +5252,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.49693362,0.50306638]",
     "classication": "positive"
   },
@@ -5676,7 +5263,6 @@
     "hashtags": [],
     "retweets_count": 50,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.90059529,0.09940471]",
     "classication": "negative"
   },
@@ -5688,7 +5274,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.80440506,0.19559494]",
     "classication": "negative"
   },
@@ -5700,7 +5285,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 12,
-    "classification": "",
     "proba": "[0.80028798,0.19971202]",
     "classication": "negative"
   },
@@ -5712,7 +5296,6 @@
     "hashtags": [],
     "retweets_count": 77,
     "favorite_count": 2439,
-    "classification": "",
     "proba": "[0.20302546,0.79697454]",
     "classication": "positive"
   },
@@ -5724,7 +5307,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.73688763,0.26311237]",
     "classication": "negative"
   },
@@ -5736,7 +5318,6 @@
     "hashtags": [],
     "retweets_count": 27283,
     "favorite_count": 131389,
-    "classification": "",
     "proba": "[0.74588316,0.25411684]",
     "classication": "negative"
   },
@@ -5748,7 +5329,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.76906605,0.23093395]",
     "classication": "negative"
   },
@@ -5760,7 +5340,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.76854663,0.23145337]",
     "classication": "negative"
   },
@@ -5772,7 +5351,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.87453815,0.12546185]",
     "classication": "negative"
   },
@@ -5784,7 +5362,6 @@
     "hashtags": [],
     "retweets_count": 429,
     "favorite_count": 933,
-    "classification": "",
     "proba": "[0.70626049,0.29373951]",
     "classication": "negative"
   },
@@ -5796,7 +5373,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 69,
-    "classification": "",
     "proba": "[0.64766902,0.35233098]",
     "classication": "negative"
   },
@@ -5808,7 +5384,6 @@
     "hashtags": [],
     "retweets_count": 147,
     "favorite_count": 249,
-    "classification": "",
     "proba": "[0.8137635,0.1862365]",
     "classication": "negative"
   },
@@ -5820,7 +5395,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.6942029,0.3057971]",
     "classication": "negative"
   },
@@ -5832,7 +5406,6 @@
     "hashtags": [],
     "retweets_count": 30,
     "favorite_count": 55,
-    "classification": "",
     "proba": "[0.69993844,0.30006156]",
     "classication": "negative"
   },
@@ -5844,7 +5417,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.90756436,0.09243564]",
     "classication": "negative"
   },
@@ -5856,7 +5428,6 @@
     "hashtags": [],
     "retweets_count": 43,
     "favorite_count": 68,
-    "classification": "",
     "proba": "[0.67187845,0.32812155]",
     "classication": "negative"
   },
@@ -5868,7 +5439,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 36,
-    "classification": "",
     "proba": "[0.87063389,0.12936611]",
     "classication": "negative"
   },
@@ -5880,7 +5450,6 @@
     "hashtags": [],
     "retweets_count": 64048,
     "favorite_count": 109295,
-    "classification": "",
     "proba": "[0.93787926,0.06212074]",
     "classication": "negative"
   },
@@ -5892,7 +5461,6 @@
     "hashtags": [],
     "retweets_count": 27,
     "favorite_count": 24,
-    "classification": "",
     "proba": "[0.80952792,0.19047208]",
     "classication": "negative"
   },
@@ -5904,7 +5472,6 @@
     "hashtags": [],
     "retweets_count": 75,
     "favorite_count": 244,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -5916,7 +5483,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.74814002,0.25185998]",
     "classication": "negative"
   },
@@ -5928,7 +5494,6 @@
     "hashtags": [],
     "retweets_count": 2817,
     "favorite_count": 7643,
-    "classification": "",
     "proba": "[0.76176759,0.23823241]",
     "classication": "negative"
   },
@@ -5940,7 +5505,6 @@
     "hashtags": [],
     "retweets_count": 26,
     "favorite_count": 89,
-    "classification": "",
     "proba": "[0.76769563,0.23230437]",
     "classication": "negative"
   },
@@ -5952,7 +5516,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 16,
-    "classification": "",
     "proba": "[0.82391997,0.17608003]",
     "classication": "negative"
   },
@@ -5964,7 +5527,6 @@
     "hashtags": [],
     "retweets_count": 67,
     "favorite_count": 197,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -5976,7 +5538,6 @@
     "hashtags": [],
     "retweets_count": 2032,
     "favorite_count": 3559,
-    "classification": "",
     "proba": "[0.8052874,0.1947126]",
     "classication": "negative"
   },
@@ -5988,7 +5549,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 12,
-    "classification": "",
     "proba": "[0.780224,0.219776]",
     "classication": "negative"
   },
@@ -6000,7 +5560,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.85878388,0.14121612]",
     "classication": "negative"
   },
@@ -6012,7 +5571,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 38,
-    "classification": "",
     "proba": "[0.65338159,0.34661841]",
     "classication": "negative"
   },
@@ -6024,7 +5582,6 @@
     "hashtags": [],
     "retweets_count": 341,
     "favorite_count": 749,
-    "classification": "",
     "proba": "[0.71792049,0.28207951]",
     "classication": "negative"
   },
@@ -6036,7 +5593,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 31,
-    "classification": "",
     "proba": "[0.86370332,0.13629668]",
     "classication": "negative"
   },
@@ -6056,7 +5612,6 @@
     ],
     "retweets_count": 10,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.65728483,0.34271517]",
     "classication": "negative"
   },
@@ -6068,7 +5623,6 @@
     "hashtags": [],
     "retweets_count": 272,
     "favorite_count": 624,
-    "classification": "",
     "proba": "[0.85242444,0.14757556]",
     "classication": "negative"
   },
@@ -6080,7 +5634,6 @@
     "hashtags": [],
     "retweets_count": 37,
     "favorite_count": 364,
-    "classification": "",
     "proba": "[0.55636833,0.44363167]",
     "classication": "negative"
   },
@@ -6092,7 +5645,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.87323159,0.12676841]",
     "classication": "negative"
   },
@@ -6104,7 +5656,6 @@
     "hashtags": [],
     "retweets_count": 1439,
     "favorite_count": 1330,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -6116,7 +5667,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.85749418,0.14250582]",
     "classication": "negative"
   },
@@ -6128,7 +5678,6 @@
     "hashtags": [],
     "retweets_count": 26,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -6140,7 +5689,6 @@
     "hashtags": [],
     "retweets_count": 178,
     "favorite_count": 307,
-    "classification": "",
     "proba": "[0.79860441,0.20139559]",
     "classication": "negative"
   },
@@ -6152,7 +5700,6 @@
     "hashtags": [],
     "retweets_count": 56,
     "favorite_count": 180,
-    "classification": "",
     "proba": "[0.80384575,0.19615425]",
     "classication": "negative"
   },
@@ -6164,7 +5711,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.91457074,0.08542926]",
     "classication": "negative"
   },
@@ -6176,7 +5722,6 @@
     "hashtags": [],
     "retweets_count": 151,
     "favorite_count": 74,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -6203,7 +5748,6 @@
     ],
     "retweets_count": 11,
     "favorite_count": 30,
-    "classification": "",
     "proba": "[0.86489155,0.13510845]",
     "classication": "negative"
   },
@@ -6215,7 +5759,6 @@
     "hashtags": [],
     "retweets_count": 257,
     "favorite_count": 439,
-    "classification": "",
     "proba": "[0.85189605,0.14810395]",
     "classication": "negative"
   },
@@ -6235,7 +5778,6 @@
     ],
     "retweets_count": 4,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.74018345,0.25981655]",
     "classication": "negative"
   },
@@ -6247,7 +5789,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.68770312,0.31229688]",
     "classication": "negative"
   },
@@ -6259,7 +5800,6 @@
     "hashtags": [],
     "retweets_count": 2047,
     "favorite_count": 2368,
-    "classification": "",
     "proba": "[0.82192841,0.17807159]",
     "classication": "negative"
   },
@@ -6286,7 +5826,6 @@
     ],
     "retweets_count": 70,
     "favorite_count": 63,
-    "classification": "",
     "proba": "[0.77334484,0.22665516]",
     "classication": "negative"
   },
@@ -6298,7 +5837,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.77241302,0.22758698]",
     "classication": "negative"
   },
@@ -6310,7 +5848,6 @@
     "hashtags": [],
     "retweets_count": 54,
     "favorite_count": 24,
-    "classification": "",
     "proba": "[0.76851061,0.23148939]",
     "classication": "negative"
   },
@@ -6322,7 +5859,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.62524749,0.37475251]",
     "classication": "negative"
   },
@@ -6334,7 +5870,6 @@
     "hashtags": [],
     "retweets_count": 34,
     "favorite_count": 20,
-    "classification": "",
     "proba": "[0.69616552,0.30383448]",
     "classication": "negative"
   },
@@ -6346,7 +5881,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 48,
-    "classification": "",
     "proba": "[0.7380359,0.2619641]",
     "classication": "negative"
   },
@@ -6358,7 +5892,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.79170735,0.20829265]",
     "classication": "negative"
   },
@@ -6370,7 +5903,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.69679204,0.30320796]",
     "classication": "negative"
   },
@@ -6404,7 +5936,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.85607564,0.14392436]",
     "classication": "negative"
   },
@@ -6416,7 +5947,6 @@
     "hashtags": [],
     "retweets_count": 423,
     "favorite_count": 1106,
-    "classification": "",
     "proba": "[0.78787806,0.21212194]",
     "classication": "negative"
   },
@@ -6428,7 +5958,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.85404121,0.14595879]",
     "classication": "negative"
   },
@@ -6455,7 +5984,6 @@
     ],
     "retweets_count": 284,
     "favorite_count": 148,
-    "classification": "",
     "proba": "[0.71366884,0.28633116]",
     "classication": "negative"
   },
@@ -6467,7 +5995,6 @@
     "hashtags": [],
     "retweets_count": 9903,
     "favorite_count": 8728,
-    "classification": "",
     "proba": "[0.78836651,0.21163349]",
     "classication": "negative"
   },
@@ -6479,7 +6006,6 @@
     "hashtags": [],
     "retweets_count": 81,
     "favorite_count": 72,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -6491,7 +6017,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 12,
-    "classification": "",
     "proba": "[0.76869568,0.23130432]",
     "classication": "negative"
   },
@@ -6503,7 +6028,6 @@
     "hashtags": [],
     "retweets_count": 388,
     "favorite_count": 380,
-    "classification": "",
     "proba": "[0.74431517,0.25568483]",
     "classication": "negative"
   },
@@ -6515,7 +6039,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.83175109,0.16824891]",
     "classication": "negative"
   },
@@ -6527,7 +6050,6 @@
     "hashtags": [],
     "retweets_count": 81,
     "favorite_count": 802,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -6539,7 +6061,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 24,
-    "classification": "",
     "proba": "[0.75402817,0.24597183]",
     "classication": "negative"
   },
@@ -6551,7 +6072,6 @@
     "hashtags": [],
     "retweets_count": 2440,
     "favorite_count": 1362,
-    "classification": "",
     "proba": "[0.83735285,0.16264715]",
     "classication": "negative"
   },
@@ -6563,7 +6083,6 @@
     "hashtags": [],
     "retweets_count": 24,
     "favorite_count": 80,
-    "classification": "",
     "proba": "[0.88747407,0.11252593]",
     "classication": "negative"
   },
@@ -6575,7 +6094,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.48040451,0.51959549]",
     "classication": "positive"
   },
@@ -6587,7 +6105,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.64791053,0.35208947]",
     "classication": "negative"
   },
@@ -6599,7 +6116,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.77097202,0.22902798]",
     "classication": "negative"
   },
@@ -6611,7 +6127,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 14,
-    "classification": "",
     "proba": "[0.67736513,0.32263487]",
     "classication": "negative"
   },
@@ -6623,7 +6138,6 @@
     "hashtags": [],
     "retweets_count": 167,
     "favorite_count": 3846,
-    "classification": "",
     "proba": "[0.70713421,0.29286579]",
     "classication": "negative"
   },
@@ -6635,7 +6149,6 @@
     "hashtags": [],
     "retweets_count": 92,
     "favorite_count": 139,
-    "classification": "",
     "proba": "[0.89438763,0.10561237]",
     "classication": "negative"
   },
@@ -6647,7 +6160,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 23,
-    "classification": "",
     "proba": "[0.75067786,0.24932214]",
     "classication": "negative"
   },
@@ -6659,7 +6171,6 @@
     "hashtags": [],
     "retweets_count": 10,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.69699546,0.30300454]",
     "classication": "negative"
   },
@@ -6671,7 +6182,6 @@
     "hashtags": [],
     "retweets_count": 119,
     "favorite_count": 219,
-    "classification": "",
     "proba": "[0.84310327,0.15689673]",
     "classication": "negative"
   },
@@ -6683,7 +6193,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.87026578,0.12973422]",
     "classication": "negative"
   },
@@ -6695,7 +6204,6 @@
     "hashtags": [],
     "retweets_count": 25,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.85613017,0.14386983]",
     "classication": "negative"
   },
@@ -6729,7 +6237,6 @@
     ],
     "retweets_count": 42,
     "favorite_count": 93,
-    "classification": "",
     "proba": "[0.77539892,0.22460108]",
     "classication": "negative"
   },
@@ -6749,7 +6256,6 @@
     ],
     "retweets_count": 30,
     "favorite_count": 58,
-    "classification": "",
     "proba": "[0.832667,0.167333]",
     "classication": "negative"
   },
@@ -6761,7 +6267,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 14,
-    "classification": "",
     "proba": "[0.65743981,0.34256019]",
     "classication": "negative"
   },
@@ -6773,7 +6278,6 @@
     "hashtags": [],
     "retweets_count": 36,
     "favorite_count": 136,
-    "classification": "",
     "proba": "[0.76203147,0.23796853]",
     "classication": "negative"
   },
@@ -6785,7 +6289,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 40,
-    "classification": "",
     "proba": "[0.49693989,0.50306011]",
     "classication": "negative"
   },
@@ -6797,7 +6300,6 @@
     "hashtags": [],
     "retweets_count": 81,
     "favorite_count": 1626,
-    "classification": "",
     "proba": "[0.74894879,0.25105121]",
     "classication": "negative"
   },
@@ -6809,7 +6311,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.80841258,0.19158742]",
     "classication": "negative"
   },
@@ -6821,7 +6322,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.64348369,0.35651631]",
     "classication": "negative"
   },
@@ -6833,7 +6333,6 @@
     "hashtags": [],
     "retweets_count": 616,
     "favorite_count": 4286,
-    "classification": "",
     "proba": "[0.89517667,0.10482333]",
     "classication": "negative"
   },
@@ -6860,7 +6359,6 @@
     ],
     "retweets_count": 9,
     "favorite_count": 16,
-    "classification": "",
     "proba": "[0.80592051,0.19407949]",
     "classication": "negative"
   },
@@ -6908,7 +6406,6 @@
     ],
     "retweets_count": 11,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.84764049,0.15235951]",
     "classication": "negative"
   },
@@ -6920,7 +6417,6 @@
     "hashtags": [],
     "retweets_count": 3949,
     "favorite_count": 6808,
-    "classification": "",
     "proba": "[0.79462414,0.20537586]",
     "classication": "negative"
   },
@@ -6932,7 +6428,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 12,
-    "classification": "",
     "proba": "[0.84082288,0.15917712]",
     "classication": "negative"
   },
@@ -6944,7 +6439,6 @@
     "hashtags": [],
     "retweets_count": 73,
     "favorite_count": 256,
-    "classification": "",
     "proba": "[0.5805971,0.4194029]",
     "classication": "negative"
   },
@@ -6971,7 +6465,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.82373453,0.17626547]",
     "classication": "negative"
   },
@@ -6983,7 +6476,6 @@
     "hashtags": [],
     "retweets_count": 14,
     "favorite_count": 19,
-    "classification": "",
     "proba": "[0.42110249,0.57889751]",
     "classication": "negative"
   },
@@ -6995,7 +6487,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.93615099,0.06384901]",
     "classication": "negative"
   },
@@ -7007,7 +6498,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.71002247,0.28997753]",
     "classication": "negative"
   },
@@ -7019,7 +6509,6 @@
     "hashtags": [],
     "retweets_count": 415,
     "favorite_count": 1146,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -7031,7 +6520,6 @@
     "hashtags": [],
     "retweets_count": 194,
     "favorite_count": 282,
-    "classification": "",
     "proba": "[0.90794955,0.09205045]",
     "classication": "negative"
   },
@@ -7043,7 +6531,6 @@
     "hashtags": [],
     "retweets_count": 4651,
     "favorite_count": 8381,
-    "classification": "",
     "proba": "[0.73714169,0.26285831]",
     "classication": "negative"
   },
@@ -7055,7 +6542,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 47,
-    "classification": "",
     "proba": "[0.81100774,0.18899226]",
     "classication": "negative"
   },
@@ -7067,7 +6553,6 @@
     "hashtags": [],
     "retweets_count": 117,
     "favorite_count": 325,
-    "classification": "",
     "proba": "[0.55901747,0.44098253]",
     "classication": "negative"
   },
@@ -7079,7 +6564,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.85603129,0.14396871]",
     "classication": "negative"
   },
@@ -7091,7 +6575,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.87632445,0.12367555]",
     "classication": "negative"
   },
@@ -7103,7 +6586,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.73679774,0.26320226]",
     "classication": "negative"
   },
@@ -7115,7 +6597,6 @@
     "hashtags": [],
     "retweets_count": 52,
     "favorite_count": 69,
-    "classification": "",
     "proba": "[0.79730846,0.20269154]",
     "classication": "negative"
   },
@@ -7135,7 +6616,6 @@
     ],
     "retweets_count": 632,
     "favorite_count": 407,
-    "classification": "",
     "proba": "[0.61356173,0.38643827]",
     "classication": "negative"
   },
@@ -7155,7 +6635,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.60754444,0.39245556]",
     "classication": "negative"
   },
@@ -7167,7 +6646,6 @@
     "hashtags": [],
     "retweets_count": 9,
     "favorite_count": 23,
-    "classification": "",
     "proba": "[0.8378273,0.1621727]",
     "classication": "negative"
   },
@@ -7208,7 +6686,6 @@
     ],
     "retweets_count": 7,
     "favorite_count": 23,
-    "classification": "",
     "proba": "[0.7651085,0.2348915]",
     "classication": "negative"
   },
@@ -7220,7 +6697,6 @@
     "hashtags": [],
     "retweets_count": 82,
     "favorite_count": 2122,
-    "classification": "",
     "proba": "[0.66941046,0.33058954]",
     "classication": "negative"
   },
@@ -7232,7 +6708,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.72829442,0.27170558]",
     "classication": "negative"
   },
@@ -7244,7 +6719,6 @@
     "hashtags": [],
     "retweets_count": 71,
     "favorite_count": 113,
-    "classification": "",
     "proba": "[0.71824208,0.28175792]",
     "classication": "negative"
   },
@@ -7256,7 +6730,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -7268,7 +6741,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 44,
-    "classification": "",
     "proba": "[0.7147421,0.2852579]",
     "classication": "negative"
   },
@@ -7295,7 +6767,6 @@
     ],
     "retweets_count": 38,
     "favorite_count": 68,
-    "classification": "",
     "proba": "[0.69678231,0.30321769]",
     "classication": "negative"
   },
@@ -7307,7 +6778,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.73345422,0.26654578]",
     "classication": "negative"
   },
@@ -7319,7 +6789,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.42110249,0.57889751]",
     "classication": "positive"
   },
@@ -7331,7 +6800,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.90059529,0.09940471]",
     "classication": "negative"
   },
@@ -7343,7 +6811,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.78032213,0.21967787]",
     "classication": "negative"
   },
@@ -7355,7 +6822,6 @@
     "hashtags": [],
     "retweets_count": 19,
     "favorite_count": 74,
-    "classification": "",
     "proba": "[0.63177877,0.36822123]",
     "classication": "negative"
   },
@@ -7375,7 +6841,6 @@
     ],
     "retweets_count": 9,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.84617229,0.15382771]",
     "classication": "negative"
   },
@@ -7387,7 +6852,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.82247574,0.17752426]",
     "classication": "negative"
   },
@@ -7399,7 +6863,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.86515961,0.13484039]",
     "classication": "negative"
   },
@@ -7411,7 +6874,6 @@
     "hashtags": [],
     "retweets_count": 168,
     "favorite_count": 106,
-    "classification": "",
     "proba": "[0.81872908,0.18127092]",
     "classication": "negative"
   },
@@ -7423,7 +6885,6 @@
     "hashtags": [],
     "retweets_count": 60,
     "favorite_count": 165,
-    "classification": "",
     "proba": "[0.78156974,0.21843026]",
     "classication": "negative"
   },
@@ -7450,7 +6911,6 @@
     ],
     "retweets_count": 92,
     "favorite_count": 108,
-    "classification": "",
     "proba": "[0.65816821,0.34183179]",
     "classication": "negative"
   },
@@ -7477,7 +6937,6 @@
     ],
     "retweets_count": 2,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -7489,7 +6948,6 @@
     "hashtags": [],
     "retweets_count": 34,
     "favorite_count": 53,
-    "classification": "",
     "proba": "[0.86666073,0.13333927]",
     "classication": "negative"
   },
@@ -7501,7 +6959,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.69196065,0.30803935]",
     "classication": "negative"
   },
@@ -7513,7 +6970,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.84408128,0.15591872]",
     "classication": "negative"
   },
@@ -7525,7 +6981,6 @@
     "hashtags": [],
     "retweets_count": 9,
     "favorite_count": 21,
-    "classification": "",
     "proba": "[0.79552717,0.20447283]",
     "classication": "negative"
   },
@@ -7552,7 +7007,6 @@
     ],
     "retweets_count": 23,
     "favorite_count": 29,
-    "classification": "",
     "proba": "[0.72316776,0.27683224]",
     "classication": "negative"
   },
@@ -7564,7 +7018,6 @@
     "hashtags": [],
     "retweets_count": 90,
     "favorite_count": 259,
-    "classification": "",
     "proba": "[0.75943638,0.24056362]",
     "classication": "negative"
   },
@@ -7576,7 +7029,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.87000332,0.12999668]",
     "classication": "negative"
   },
@@ -7588,7 +7040,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 29,
-    "classification": "",
     "proba": "[0.84673523,0.15326477]",
     "classication": "negative"
   },
@@ -7600,7 +7051,6 @@
     "hashtags": [],
     "retweets_count": 36,
     "favorite_count": 644,
-    "classification": "",
     "proba": "[0.75562629,0.24437371]",
     "classication": "negative"
   },
@@ -7612,7 +7062,6 @@
     "hashtags": [],
     "retweets_count": 1063,
     "favorite_count": 1371,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -7624,7 +7073,6 @@
     "hashtags": [],
     "retweets_count": 3108,
     "favorite_count": 3762,
-    "classification": "",
     "proba": "[0.89500535,0.10499465]",
     "classication": "negative"
   },
@@ -7636,7 +7084,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.53358919,0.46641081]",
     "classication": "negative"
   },
@@ -7648,7 +7095,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 12,
-    "classification": "",
     "proba": "[0.76063381,0.23936619]",
     "classication": "negative"
   },
@@ -7660,7 +7106,6 @@
     "hashtags": [],
     "retweets_count": 14,
     "favorite_count": 51,
-    "classification": "",
     "proba": "[0.83674099,0.16325901]",
     "classication": "negative"
   },
@@ -7672,7 +7117,6 @@
     "hashtags": [],
     "retweets_count": 154,
     "favorite_count": 450,
-    "classification": "",
     "proba": "[0.89711263,0.10288737]",
     "classication": "negative"
   },
@@ -7684,7 +7128,6 @@
     "hashtags": [],
     "retweets_count": 11,
     "favorite_count": 21,
-    "classification": "",
     "proba": "[0.88437754,0.11562246]",
     "classication": "negative"
   },
@@ -7696,7 +7139,6 @@
     "hashtags": [],
     "retweets_count": 4138,
     "favorite_count": 5065,
-    "classification": "",
     "proba": "[0.73343648,0.26656352]",
     "classication": "negative"
   },
@@ -7708,7 +7150,6 @@
     "hashtags": [],
     "retweets_count": 317,
     "favorite_count": 54,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -7720,7 +7161,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.85829672,0.14170328]",
     "classication": "negative"
   },
@@ -7732,7 +7172,6 @@
     "hashtags": [],
     "retweets_count": 144,
     "favorite_count": 273,
-    "classification": "",
     "proba": "[0.90813591,0.09186409]",
     "classication": "negative"
   },
@@ -7744,7 +7183,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.7774759,0.2225241]",
     "classication": "negative"
   },
@@ -7756,7 +7194,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.66729411,0.33270589]",
     "classication": "negative"
   },
@@ -7768,7 +7205,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.75058338,0.24941662]",
     "classication": "negative"
   },
@@ -7780,7 +7216,6 @@
     "hashtags": [],
     "retweets_count": 269,
     "favorite_count": 856,
-    "classification": "",
     "proba": "[0.79659125,0.20340875]",
     "classication": "negative"
   },
@@ -7792,7 +7227,6 @@
     "hashtags": [],
     "retweets_count": 18,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.68979721,0.31020279]",
     "classication": "negative"
   },
@@ -7812,7 +7246,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.80190283,0.19809717]",
     "classication": "negative"
   },
@@ -7832,7 +7265,6 @@
     ],
     "retweets_count": 5,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.84429251,0.15570749]",
     "classication": "negative"
   },
@@ -7844,7 +7276,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 22,
-    "classification": "",
     "proba": "[0.76160207,0.23839793]",
     "classication": "negative"
   },
@@ -7856,7 +7287,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.81358852,0.18641148]",
     "classication": "negative"
   },
@@ -7868,7 +7298,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.84066072,0.15933928]",
     "classication": "negative"
   },
@@ -7888,7 +7317,6 @@
     ],
     "retweets_count": 5,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.78731167,0.21268833]",
     "classication": "negative"
   },
@@ -7900,7 +7328,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.88876481,0.11123519]",
     "classication": "negative"
   },
@@ -7912,7 +7339,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.54834358,0.45165642]",
     "classication": "negative"
   },
@@ -7924,7 +7350,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.82607152,0.17392848]",
     "classication": "negative"
   },
@@ -7936,7 +7361,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.84372021,0.15627979]",
     "classication": "negative"
   },
@@ -7948,7 +7372,6 @@
     "hashtags": [],
     "retweets_count": 41,
     "favorite_count": 233,
-    "classification": "",
     "proba": "[0.72108207,0.27891793]",
     "classication": "negative"
   },
@@ -7960,7 +7383,6 @@
     "hashtags": [],
     "retweets_count": 11,
     "favorite_count": 34,
-    "classification": "",
     "proba": "[0.90813591,0.09186409]",
     "classication": "negative"
   },
@@ -7972,7 +7394,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.79898061,0.20101939]",
     "classication": "negative"
   },
@@ -7984,7 +7405,6 @@
     "hashtags": [],
     "retweets_count": 240,
     "favorite_count": 503,
-    "classification": "",
     "proba": "[0.73360275,0.26639725]",
     "classication": "negative"
   },
@@ -7996,7 +7416,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.81751028,0.18248972]",
     "classication": "negative"
   },
@@ -8008,7 +7427,6 @@
     "hashtags": [],
     "retweets_count": 228,
     "favorite_count": 296,
-    "classification": "",
     "proba": "[0.83992338,0.16007662]",
     "classication": "negative"
   },
@@ -8020,7 +7438,6 @@
     "hashtags": [],
     "retweets_count": 94,
     "favorite_count": 221,
-    "classification": "",
     "proba": "[0.75293193,0.24706807]",
     "classication": "negative"
   },
@@ -8040,7 +7457,6 @@
     ],
     "retweets_count": 942,
     "favorite_count": 2087,
-    "classification": "",
     "proba": "[0.85435803,0.14564197]",
     "classication": "negative"
   },
@@ -8052,7 +7468,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.69111448,0.30888552]",
     "classication": "negative"
   },
@@ -8064,7 +7479,6 @@
     "hashtags": [],
     "retweets_count": 9,
     "favorite_count": 54,
-    "classification": "",
     "proba": "[0.89072233,0.10927767]",
     "classication": "negative"
   },
@@ -8076,7 +7490,6 @@
     "hashtags": [],
     "retweets_count": 15,
     "favorite_count": 63,
-    "classification": "",
     "proba": "[0.69470376,0.30529624]",
     "classication": "negative"
   },
@@ -8088,7 +7501,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.63944173,0.36055827]",
     "classication": "negative"
   },
@@ -8100,7 +7512,6 @@
     "hashtags": [],
     "retweets_count": 56,
     "favorite_count": 71,
-    "classification": "",
     "proba": "[0.80656522,0.19343478]",
     "classication": "negative"
   },
@@ -8120,7 +7531,6 @@
     ],
     "retweets_count": 8,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.65666197,0.34333803]",
     "classication": "negative"
   },
@@ -8132,7 +7542,6 @@
     "hashtags": [],
     "retweets_count": 26,
     "favorite_count": 30,
-    "classification": "",
     "proba": "[0.76570009,0.23429991]",
     "classication": "negative"
   },
@@ -8144,7 +7553,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.89623293,0.10376707]",
     "classication": "negative"
   },
@@ -8164,7 +7572,6 @@
     ],
     "retweets_count": 46,
     "favorite_count": 132,
-    "classification": "",
     "proba": "[0.82099529,0.17900471]",
     "classication": "negative"
   },
@@ -8205,7 +7612,6 @@
     ],
     "retweets_count": 16,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.83391301,0.16608699]",
     "classication": "negative"
   },
@@ -8217,7 +7623,6 @@
     "hashtags": [],
     "retweets_count": 5491,
     "favorite_count": 16937,
-    "classification": "",
     "proba": "[0.71543123,0.28456877]",
     "classication": "negative"
   },
@@ -8229,7 +7634,6 @@
     "hashtags": [],
     "retweets_count": 32,
     "favorite_count": 39,
-    "classification": "",
     "proba": "[0.90321022,0.09678978]",
     "classication": "negative"
   },
@@ -8241,7 +7645,6 @@
     "hashtags": [],
     "retweets_count": 10,
     "favorite_count": 15,
-    "classification": "",
     "proba": "[0.88993647,0.11006353]",
     "classication": "negative"
   },
@@ -8253,7 +7656,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.74990466,0.25009534]",
     "classication": "negative"
   },
@@ -8265,7 +7667,6 @@
     "hashtags": [],
     "retweets_count": 15,
     "favorite_count": 105,
-    "classification": "",
     "proba": "[0.55236739,0.44763261]",
     "classication": "negative"
   },
@@ -8277,7 +7678,6 @@
     "hashtags": [],
     "retweets_count": 2806,
     "favorite_count": 6212,
-    "classification": "",
     "proba": "[0.82078614,0.17921386]",
     "classication": "negative"
   },
@@ -8289,7 +7689,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.8378273,0.1621727]",
     "classication": "negative"
   },
@@ -8301,7 +7700,6 @@
     "hashtags": [],
     "retweets_count": 11,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.85787298,0.14212702]",
     "classication": "negative"
   },
@@ -8313,7 +7711,6 @@
     "hashtags": [],
     "retweets_count": 18,
     "favorite_count": 19,
-    "classification": "",
     "proba": "[0.79367279,0.20632721]",
     "classication": "negative"
   },
@@ -8340,7 +7737,6 @@
     ],
     "retweets_count": 19,
     "favorite_count": 50,
-    "classification": "",
     "proba": "[0.74645712,0.25354288]",
     "classication": "negative"
   },
@@ -8352,7 +7748,6 @@
     "hashtags": [],
     "retweets_count": 38905,
     "favorite_count": 134782,
-    "classification": "",
     "proba": "[0.79685116,0.20314884]",
     "classication": "negative"
   },
@@ -8364,7 +7759,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 218,
-    "classification": "",
     "proba": "[0.76134516,0.23865484]",
     "classication": "negative"
   },
@@ -8376,7 +7770,6 @@
     "hashtags": [],
     "retweets_count": 49,
     "favorite_count": 152,
-    "classification": "",
     "proba": "[0.73954293,0.26045707]",
     "classication": "negative"
   },
@@ -8388,7 +7781,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.77207156,0.22792844]",
     "classication": "negative"
   },
@@ -8400,7 +7792,6 @@
     "hashtags": [],
     "retweets_count": 14,
     "favorite_count": 26,
-    "classification": "",
     "proba": "[0.55772197,0.44227803]",
     "classication": "negative"
   },
@@ -8412,7 +7803,6 @@
     "hashtags": [],
     "retweets_count": 183,
     "favorite_count": 598,
-    "classification": "",
     "proba": "[0.84805645,0.15194355]",
     "classication": "negative"
   },
@@ -8424,7 +7814,6 @@
     "hashtags": [],
     "retweets_count": 93,
     "favorite_count": 142,
-    "classification": "",
     "proba": "[0.6750199,0.3249801]",
     "classication": "negative"
   },
@@ -8436,7 +7825,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.81837854,0.18162146]",
     "classication": "negative"
   },
@@ -8448,7 +7836,6 @@
     "hashtags": [],
     "retweets_count": 18,
     "favorite_count": 34,
-    "classification": "",
     "proba": "[0.84015646,0.15984354]",
     "classication": "negative"
   },
@@ -8475,7 +7862,6 @@
     ],
     "retweets_count": 3,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.7823348,0.2176652]",
     "classication": "negative"
   },
@@ -8487,7 +7873,6 @@
     "hashtags": [],
     "retweets_count": 17,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.90879548,0.09120452]",
     "classication": "negative"
   },
@@ -8499,7 +7884,6 @@
     "hashtags": [],
     "retweets_count": 441,
     "favorite_count": 367,
-    "classification": "",
     "proba": "[0.75491434,0.24508566]",
     "classication": "negative"
   },
@@ -8511,7 +7895,6 @@
     "hashtags": [],
     "retweets_count": 176,
     "favorite_count": 685,
-    "classification": "",
     "proba": "[0.67838086,0.32161914]",
     "classication": "negative"
   },
@@ -8523,7 +7906,6 @@
     "hashtags": [],
     "retweets_count": 47,
     "favorite_count": 37,
-    "classification": "",
     "proba": "[0.70265514,0.29734486]",
     "classication": "negative"
   },
@@ -8535,7 +7917,6 @@
     "hashtags": [],
     "retweets_count": 11,
     "favorite_count": 16,
-    "classification": "",
     "proba": "[0.85649046,0.14350954]",
     "classication": "negative"
   },
@@ -8569,7 +7950,6 @@
     ],
     "retweets_count": 34,
     "favorite_count": 57,
-    "classification": "",
     "proba": "[0.87660849,0.12339151]",
     "classication": "negative"
   },
@@ -8581,7 +7961,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.79907579,0.20092421]",
     "classication": "negative"
   },
@@ -8593,7 +7972,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 29,
-    "classification": "",
     "proba": "[0.85910923,0.14089077]",
     "classication": "negative"
   },
@@ -8613,7 +7991,6 @@
     ],
     "retweets_count": 37,
     "favorite_count": 25,
-    "classification": "",
     "proba": "[0.71013623,0.28986377]",
     "classication": "negative"
   },
@@ -8625,7 +8002,6 @@
     "hashtags": [],
     "retweets_count": 37,
     "favorite_count": 88,
-    "classification": "",
     "proba": "[0.71198976,0.28801024]",
     "classication": "negative"
   },
@@ -8645,7 +8021,6 @@
     ],
     "retweets_count": 19,
     "favorite_count": 23,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -8657,7 +8032,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 23,
-    "classification": "",
     "proba": "[0.90229349,0.09770651]",
     "classication": "negative"
   },
@@ -8669,7 +8043,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.70158464,0.29841536]",
     "classication": "negative"
   },
@@ -8681,7 +8054,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 12,
-    "classification": "",
     "proba": "[0.68678521,0.31321479]",
     "classication": "negative"
   },
@@ -8693,7 +8065,6 @@
     "hashtags": [],
     "retweets_count": 454,
     "favorite_count": 1796,
-    "classification": "",
     "proba": "[0.82548712,0.17451288]",
     "classication": "negative"
   },
@@ -8705,7 +8076,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 57,
-    "classification": "",
     "proba": "[0.70221921,0.29778079]",
     "classication": "negative"
   },
@@ -8717,7 +8087,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 147,
-    "classification": "",
     "proba": "[0.76895455,0.23104545]",
     "classication": "negative"
   },
@@ -8729,7 +8098,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 15,
-    "classification": "",
     "proba": "[0.78966923,0.21033077]",
     "classication": "negative"
   },
@@ -8741,7 +8109,6 @@
     "hashtags": [],
     "retweets_count": 127,
     "favorite_count": 335,
-    "classification": "",
     "proba": "[0.80309978,0.19690022]",
     "classication": "negative"
   },
@@ -8753,7 +8120,6 @@
     "hashtags": [],
     "retweets_count": 21,
     "favorite_count": 57,
-    "classification": "",
     "proba": "[0.65898184,0.34101816]",
     "classication": "negative"
   },
@@ -8765,7 +8131,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.68123215,0.31876785]",
     "classication": "negative"
   },
@@ -8777,7 +8142,6 @@
     "hashtags": [],
     "retweets_count": 262,
     "favorite_count": 5417,
-    "classification": "",
     "proba": "[0.28373477,0.71626523]",
     "classication": "negative"
   },
@@ -8789,7 +8153,6 @@
     "hashtags": [],
     "retweets_count": 26,
     "favorite_count": 22,
-    "classification": "",
     "proba": "[0.63802008,0.36197992]",
     "classication": "negative"
   },
@@ -8801,7 +8164,6 @@
     "hashtags": [],
     "retweets_count": 61,
     "favorite_count": 219,
-    "classification": "",
     "proba": "[0.83621618,0.16378382]",
     "classication": "negative"
   },
@@ -8813,7 +8175,6 @@
     "hashtags": [],
     "retweets_count": 201,
     "favorite_count": 669,
-    "classification": "",
     "proba": "[0.73096969,0.26903031]",
     "classication": "negative"
   },
@@ -8833,7 +8194,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.7764689,0.2235311]",
     "classication": "negative"
   },
@@ -8867,7 +8227,6 @@
     ],
     "retweets_count": 264,
     "favorite_count": 137,
-    "classification": "",
     "proba": "[0.74949172,0.25050828]",
     "classication": "negative"
   },
@@ -8879,7 +8238,6 @@
     "hashtags": [],
     "retweets_count": 4887,
     "favorite_count": 2006,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -8899,7 +8257,6 @@
     ],
     "retweets_count": 9,
     "favorite_count": 18,
-    "classification": "",
     "proba": "[0.89767366,0.10232634]",
     "classication": "negative"
   },
@@ -8911,7 +8268,6 @@
     "hashtags": [],
     "retweets_count": 421,
     "favorite_count": 896,
-    "classification": "",
     "proba": "[0.91528398,0.08471602]",
     "classication": "negative"
   },
@@ -8923,7 +8279,6 @@
     "hashtags": [],
     "retweets_count": 396,
     "favorite_count": 778,
-    "classification": "",
     "proba": "[0.81560232,0.18439768]",
     "classication": "negative"
   },
@@ -8935,7 +8290,6 @@
     "hashtags": [],
     "retweets_count": 5869,
     "favorite_count": 16533,
-    "classification": "",
     "proba": "[0.72108207,0.27891793]",
     "classication": "negative"
   },
@@ -8947,7 +8301,6 @@
     "hashtags": [],
     "retweets_count": 89,
     "favorite_count": 316,
-    "classification": "",
     "proba": "[0.89658744,0.10341256]",
     "classication": "negative"
   },
@@ -8959,7 +8312,6 @@
     "hashtags": [],
     "retweets_count": 20,
     "favorite_count": 239,
-    "classification": "",
     "proba": "[0.72108207,0.27891793]",
     "classication": "negative"
   },
@@ -8971,7 +8323,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.52534761,0.47465239]",
     "classication": "negative"
   },
@@ -8998,7 +8349,6 @@
     ],
     "retweets_count": 3,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.50998602,0.49001398]",
     "classication": "negative"
   },
@@ -9010,7 +8360,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.82066467,0.17933533]",
     "classication": "negative"
   },
@@ -9022,7 +8371,6 @@
     "hashtags": [],
     "retweets_count": 266,
     "favorite_count": 300,
-    "classification": "",
     "proba": "[0.71190707,0.28809293]",
     "classication": "negative"
   },
@@ -9034,7 +8382,6 @@
     "hashtags": [],
     "retweets_count": 102,
     "favorite_count": 241,
-    "classification": "",
     "proba": "[0.8303931,0.1696069]",
     "classication": "negative"
   },
@@ -9054,7 +8401,6 @@
     ],
     "retweets_count": 2,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.77378974,0.22621026]",
     "classication": "negative"
   },
@@ -9066,7 +8412,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.749124,0.250876]",
     "classication": "negative"
   },
@@ -9078,7 +8423,6 @@
     "hashtags": [],
     "retweets_count": 43,
     "favorite_count": 553,
-    "classification": "",
     "proba": "[0.82955701,0.17044299]",
     "classication": "negative"
   },
@@ -9090,7 +8434,6 @@
     "hashtags": [],
     "retweets_count": 36,
     "favorite_count": 47,
-    "classification": "",
     "proba": "[0.79844115,0.20155885]",
     "classication": "negative"
   },
@@ -9102,7 +8445,6 @@
     "hashtags": [],
     "retweets_count": 68,
     "favorite_count": 196,
-    "classification": "",
     "proba": "[0.82239807,0.17760193]",
     "classication": "negative"
   },
@@ -9114,7 +8456,6 @@
     "hashtags": [],
     "retweets_count": 42,
     "favorite_count": 504,
-    "classification": "",
     "proba": "[0.70520015,0.29479985]",
     "classication": "negative"
   },
@@ -9126,7 +8467,6 @@
     "hashtags": [],
     "retweets_count": 33,
     "favorite_count": 112,
-    "classification": "",
     "proba": "[0.92562334,0.07437666]",
     "classication": "negative"
   },
@@ -9138,7 +8478,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.7894631,0.2105369]",
     "classication": "negative"
   },
@@ -9150,7 +8489,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 83,
-    "classification": "",
     "proba": "[0.75488597,0.24511403]",
     "classication": "negative"
   },
@@ -9162,7 +8500,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.61594209,0.38405791]",
     "classication": "negative"
   },
@@ -9174,7 +8511,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.69309767,0.30690233]",
     "classication": "negative"
   },
@@ -9186,7 +8522,6 @@
     "hashtags": [],
     "retweets_count": 136,
     "favorite_count": 495,
-    "classification": "",
     "proba": "[0.7041993,0.2958007]",
     "classication": "negative"
   },
@@ -9198,7 +8533,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 22,
-    "classification": "",
     "proba": "[0.89231559,0.10768441]",
     "classication": "negative"
   },
@@ -9210,7 +8544,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 16,
-    "classification": "",
     "proba": "[0.88535954,0.11464046]",
     "classication": "negative"
   },
@@ -9222,7 +8555,6 @@
     "hashtags": [],
     "retweets_count": 118,
     "favorite_count": 99,
-    "classification": "",
     "proba": "[0.85771209,0.14228791]",
     "classication": "negative"
   },
@@ -9234,7 +8566,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.81611861,0.18388139]",
     "classication": "negative"
   },
@@ -9246,7 +8577,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.63802008,0.36197992]",
     "classication": "negative"
   },
@@ -9258,7 +8588,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 22,
-    "classification": "",
     "proba": "[0.81601149,0.18398851]",
     "classication": "negative"
   },
@@ -9270,7 +8599,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.82259237,0.17740763]",
     "classication": "negative"
   },
@@ -9282,7 +8610,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.83979022,0.16020978]",
     "classication": "negative"
   },
@@ -9294,7 +8621,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.73770367,0.26229633]",
     "classication": "negative"
   },
@@ -9306,7 +8632,6 @@
     "hashtags": [],
     "retweets_count": 2115,
     "favorite_count": 8447,
-    "classification": "",
     "proba": "[0.76905927,0.23094073]",
     "classication": "negative"
   },
@@ -9326,7 +8651,6 @@
     ],
     "retweets_count": 9,
     "favorite_count": 24,
-    "classification": "",
     "proba": "[0.67250915,0.32749085]",
     "classication": "negative"
   },
@@ -9338,7 +8662,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.87619987,0.12380013]",
     "classication": "negative"
   },
@@ -9350,7 +8673,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -9362,7 +8684,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 25,
-    "classification": "",
     "proba": "[0.77343142,0.22656858]",
     "classication": "negative"
   },
@@ -9374,7 +8695,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -9386,7 +8706,6 @@
     "hashtags": [],
     "retweets_count": 3251,
     "favorite_count": 5749,
-    "classification": "",
     "proba": "[0.92137154,0.07862846]",
     "classication": "negative"
   },
@@ -9398,7 +8717,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.78454128,0.21545872]",
     "classication": "negative"
   },
@@ -9410,7 +8728,6 @@
     "hashtags": [],
     "retweets_count": 297,
     "favorite_count": 2771,
-    "classification": "",
     "proba": "[0.84855953,0.15144047]",
     "classication": "negative"
   },
@@ -9422,7 +8739,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.6692126,0.3307874]",
     "classication": "negative"
   },
@@ -9434,7 +8750,6 @@
     "hashtags": [],
     "retweets_count": 316,
     "favorite_count": 675,
-    "classification": "",
     "proba": "[0.80122687,0.19877313]",
     "classication": "negative"
   },
@@ -9461,7 +8776,6 @@
     ],
     "retweets_count": 417,
     "favorite_count": 844,
-    "classification": "",
     "proba": "[0.89628965,0.10371035]",
     "classication": "negative"
   },
@@ -9473,7 +8787,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 103,
-    "classification": "",
     "proba": "[0.83912932,0.16087068]",
     "classication": "negative"
   },
@@ -9493,7 +8806,6 @@
     ],
     "retweets_count": 75,
     "favorite_count": 483,
-    "classification": "",
     "proba": "[0.78250488,0.21749512]",
     "classication": "negative"
   },
@@ -9513,7 +8825,6 @@
     ],
     "retweets_count": 9,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.77890086,0.22109914]",
     "classication": "negative"
   },
@@ -9540,7 +8851,6 @@
     ],
     "retweets_count": 19,
     "favorite_count": 18,
-    "classification": "",
     "proba": "[0.77240129,0.22759871]",
     "classication": "negative"
   },
@@ -9552,7 +8862,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 10,
-    "classification": "",
     "proba": "[0.769662,0.230338]",
     "classication": "negative"
   },
@@ -9564,7 +8873,6 @@
     "hashtags": [],
     "retweets_count": 9,
     "favorite_count": 17,
-    "classification": "",
     "proba": "[0.76224358,0.23775642]",
     "classication": "negative"
   },
@@ -9576,7 +8884,6 @@
     "hashtags": [],
     "retweets_count": 25,
     "favorite_count": 58,
-    "classification": "",
     "proba": "[0.76673622,0.23326378]",
     "classication": "negative"
   },
@@ -9588,7 +8895,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.9472883,0.0527117]",
     "classication": "negative"
   },
@@ -9600,7 +8906,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.89788256,0.10211744]",
     "classication": "negative"
   },
@@ -9612,7 +8917,6 @@
     "hashtags": [],
     "retweets_count": 133,
     "favorite_count": 239,
-    "classification": "",
     "proba": "[0.80414085,0.19585915]",
     "classication": "negative"
   },
@@ -9624,7 +8928,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 19,
-    "classification": "",
     "proba": "[0.91211798,0.08788202]",
     "classication": "negative"
   },
@@ -9636,7 +8939,6 @@
     "hashtags": [],
     "retweets_count": 8,
     "favorite_count": 16,
-    "classification": "",
     "proba": "[0.96164226,0.03835774]",
     "classication": "negative"
   },
@@ -9656,7 +8958,6 @@
     ],
     "retweets_count": 9,
     "favorite_count": 17,
-    "classification": "",
     "proba": "[0.79877277,0.20122723]",
     "classication": "negative"
   },
@@ -9668,7 +8969,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.72347423,0.27652577]",
     "classication": "negative"
   },
@@ -9680,7 +8980,6 @@
     "hashtags": [],
     "retweets_count": 40,
     "favorite_count": 235,
-    "classification": "",
     "proba": "[0.8378273,0.1621727]",
     "classication": "negative"
   },
@@ -9692,7 +8991,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 0,
-    "classification": "",
     "proba": "[0.71451349,0.28548651]",
     "classication": "negative"
   },
@@ -9726,7 +9024,6 @@
     ],
     "retweets_count": 2,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -9738,7 +9035,6 @@
     "hashtags": [],
     "retweets_count": 291,
     "favorite_count": 232,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -9750,7 +9046,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 17,
-    "classification": "",
     "proba": "[0.90988565,0.09011435]",
     "classication": "negative"
   },
@@ -9762,7 +9057,6 @@
     "hashtags": [],
     "retweets_count": 96,
     "favorite_count": 189,
-    "classification": "",
     "proba": "[0.80414085,0.19585915]",
     "classication": "negative"
   },
@@ -9774,7 +9068,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.83174155,0.16825845]",
     "classication": "negative"
   },
@@ -9786,7 +9079,6 @@
     "hashtags": [],
     "retweets_count": 163,
     "favorite_count": 354,
-    "classification": "",
     "proba": "[0.88214313,0.11785687]",
     "classication": "negative"
   },
@@ -9798,7 +9090,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.70319715,0.29680285]",
     "classication": "negative"
   },
@@ -9810,7 +9101,6 @@
     "hashtags": [],
     "retweets_count": 111,
     "favorite_count": 205,
-    "classification": "",
     "proba": "[0.80414085,0.19585915]",
     "classication": "negative"
   },
@@ -9822,7 +9112,6 @@
     "hashtags": [],
     "retweets_count": 6,
     "favorite_count": 13,
-    "classification": "",
     "proba": "[0.79078846,0.20921154]",
     "classication": "negative"
   },
@@ -9842,7 +9131,6 @@
     ],
     "retweets_count": 4092,
     "favorite_count": 979,
-    "classification": "",
     "proba": "[0.72195853,0.27804147]",
     "classication": "negative"
   },
@@ -9862,7 +9150,6 @@
     ],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.88062991,0.11937009]",
     "classication": "negative"
   },
@@ -9882,7 +9169,6 @@
     ],
     "retweets_count": 4890,
     "favorite_count": 1454,
-    "classification": "",
     "proba": "[0.73930615,0.26069385]",
     "classication": "negative"
   },
@@ -9894,7 +9180,6 @@
     "hashtags": [],
     "retweets_count": 1992,
     "favorite_count": 3841,
-    "classification": "",
     "proba": "[0.84455087,0.15544913]",
     "classication": "negative"
   },
@@ -9906,7 +9191,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 3,
-    "classification": "",
     "proba": "[0.88303045,0.11696955]",
     "classication": "negative"
   },
@@ -9918,7 +9202,6 @@
     "hashtags": [],
     "retweets_count": 85,
     "favorite_count": 405,
-    "classification": "",
     "proba": "[0.85913641,0.14086359]",
     "classication": "negative"
   },
@@ -9952,7 +9235,6 @@
     ],
     "retweets_count": 4463,
     "favorite_count": 975,
-    "classification": "",
     "proba": "[0.79495372,0.20504628]",
     "classication": "negative"
   },
@@ -9993,7 +9275,6 @@
     ],
     "retweets_count": 7,
     "favorite_count": 11,
-    "classification": "",
     "proba": "[0.84246252,0.15753748]",
     "classication": "negative"
   },
@@ -10005,7 +9286,6 @@
     "hashtags": [],
     "retweets_count": 3,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.75586415,0.24413585]",
     "classication": "negative"
   },
@@ -10017,7 +9297,6 @@
     "hashtags": [],
     "retweets_count": 384,
     "favorite_count": 2228,
-    "classification": "",
     "proba": "[0.73355993,0.26644007]",
     "classication": "negative"
   },
@@ -10051,7 +9330,6 @@
     ],
     "retweets_count": 7,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.77870493,0.22129507]",
     "classication": "negative"
   },
@@ -10063,7 +9341,6 @@
     "hashtags": [],
     "retweets_count": 64,
     "favorite_count": 263,
-    "classification": "",
     "proba": "[0.92855756,0.07144244]",
     "classication": "negative"
   },
@@ -10075,7 +9352,6 @@
     "hashtags": [],
     "retweets_count": 5,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.80896403,0.19103597]",
     "classication": "negative"
   },
@@ -10087,7 +9363,6 @@
     "hashtags": [],
     "retweets_count": 82,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.83058451,0.16941549]",
     "classication": "negative"
   },
@@ -10099,7 +9374,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 115,
-    "classification": "",
     "proba": "[0.86498166,0.13501834]",
     "classication": "negative"
   },
@@ -10111,7 +9385,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.80588198,0.19411802]",
     "classication": "negative"
   },
@@ -10123,7 +9396,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 12,
-    "classification": "",
     "proba": "[0.67599852,0.32400148]",
     "classication": "negative"
   },
@@ -10143,7 +9415,6 @@
     ],
     "retweets_count": 2,
     "favorite_count": 4,
-    "classification": "",
     "proba": "[0.81375305,0.18624695]",
     "classication": "negative"
   },
@@ -10155,7 +9426,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.91377103,0.08622897]",
     "classication": "negative"
   },
@@ -10167,7 +9437,6 @@
     "hashtags": [],
     "retweets_count": 9,
     "favorite_count": 21,
-    "classification": "",
     "proba": "[0.755326,0.244674]",
     "classication": "negative"
   },
@@ -10179,7 +9448,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.66873595,0.33126405]",
     "classication": "negative"
   },
@@ -10191,7 +9459,6 @@
     "hashtags": [],
     "retweets_count": 24,
     "favorite_count": 16,
-    "classification": "",
     "proba": "[0.87124213,0.12875787]",
     "classication": "negative"
   },
@@ -10203,7 +9470,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 6,
-    "classification": "",
     "proba": "[0.81852483,0.18147517]",
     "classication": "negative"
   },
@@ -10215,7 +9481,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 8,
-    "classification": "",
     "proba": "[0.70331588,0.29668412]",
     "classication": "negative"
   },
@@ -10227,7 +9492,6 @@
     "hashtags": [],
     "retweets_count": 16,
     "favorite_count": 61,
-    "classification": "",
     "proba": "[0.86047742,0.13952258]",
     "classication": "negative"
   },
@@ -10239,7 +9503,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.82885515,0.17114485]",
     "classication": "negative"
   },
@@ -10251,7 +9514,6 @@
     "hashtags": [],
     "retweets_count": 4,
     "favorite_count": 69,
-    "classification": "",
     "proba": "[0.74750431,0.25249569]",
     "classication": "negative"
   },
@@ -10263,7 +9525,6 @@
     "hashtags": [],
     "retweets_count": 13,
     "favorite_count": 5,
-    "classification": "",
     "proba": "[0.84275046,0.15724954]",
     "classication": "negative"
   },
@@ -10275,7 +9536,6 @@
     "hashtags": [],
     "retweets_count": 166,
     "favorite_count": 136,
-    "classification": "",
     "proba": "[0.67391311,0.32608689]",
     "classication": "negative"
   },
@@ -10287,7 +9547,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.82160964,0.17839036]",
     "classication": "negative"
   },
@@ -10299,7 +9558,6 @@
     "hashtags": [],
     "retweets_count": 2280,
     "favorite_count": 3766,
-    "classification": "",
     "proba": "[0.87868463,0.12131537]",
     "classication": "negative"
   },
@@ -10311,7 +9569,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 2,
-    "classification": "",
     "proba": "[0.79742846,0.20257154]",
     "classication": "negative"
   },
@@ -10323,7 +9580,6 @@
     "hashtags": [],
     "retweets_count": 8668,
     "favorite_count": 22851,
-    "classification": "",
     "proba": "[0.69655094,0.30344906]",
     "classication": "negative"
   },
@@ -10335,7 +9591,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.83462873,0.16537127]",
     "classication": "negative"
   },
@@ -10347,7 +9602,6 @@
     "hashtags": [],
     "retweets_count": 15,
     "favorite_count": 300,
-    "classification": "",
     "proba": "[0.77381649,0.22618351]",
     "classication": "negative"
   },
@@ -10359,7 +9613,6 @@
     "hashtags": [],
     "retweets_count": 72,
     "favorite_count": 294,
-    "classification": "",
     "proba": "[0.92112755,0.07887245]",
     "classication": "negative"
   },
@@ -10371,7 +9624,6 @@
     "hashtags": [],
     "retweets_count": 12,
     "favorite_count": 28,
-    "classification": "",
     "proba": "[0.65179554,0.34820446]",
     "classication": "negative"
   },
@@ -10383,7 +9635,6 @@
     "hashtags": [],
     "retweets_count": 7,
     "favorite_count": 32,
-    "classification": "",
     "proba": "[0.83415373,0.16584627]",
     "classication": "negative"
   },
@@ -10395,7 +9646,6 @@
     "hashtags": [],
     "retweets_count": 238,
     "favorite_count": 503,
-    "classification": "",
     "proba": "[0.6888996,0.3111004]",
     "classication": "negative"
   },
@@ -10407,7 +9657,6 @@
     "hashtags": [],
     "retweets_count": 2,
     "favorite_count": 7,
-    "classification": "",
     "proba": "[0.56980387,0.43019613]",
     "classication": "negative"
   },
@@ -10434,7 +9683,6 @@
     ],
     "retweets_count": 7,
     "favorite_count": 9,
-    "classification": "",
     "proba": "[0.77282057,0.22717943]",
     "classication": "negative"
   },
@@ -10446,7 +9694,6 @@
     "hashtags": [],
     "retweets_count": 58,
     "favorite_count": 75,
-    "classification": "",
     "proba": "[0.71010952,0.28989048]",
     "classication": "negative"
   },
@@ -10458,7 +9705,6 @@
     "hashtags": [],
     "retweets_count": 1,
     "favorite_count": 1,
-    "classification": "",
     "proba": "[0.81230426,0.18769574]",
     "classication": "negative"
   },
@@ -10470,7 +9716,6 @@
     "hashtags": [],
     "retweets_count": 10,
     "favorite_count": 19,
-    "classification": "",
     "proba": "[0.70796782,0.29203218]",
     "classication": "negative"
   },
@@ -10497,7 +9742,6 @@
     ],
     "retweets_count": 24,
     "favorite_count": 137,
-    "classification": "",
     "proba": "[0.85686783,0.14313217]",
     "classication": "negative"
   },
@@ -10509,7 +9753,6 @@
     "hashtags": [],
     "retweets_count": 133,
     "favorite_count": 224,
-    "classification": "",
     "proba": "[0.80414085,0.19585915]",
     "classication": "negative"
   },
@@ -10521,7 +9764,6 @@
     "hashtags": [],
     "retweets_count": 20,
     "favorite_count": 14,
-    "classification": "",
     "proba": "[0.85892638,0.14107362]",
     "classication": "negative"
   }
