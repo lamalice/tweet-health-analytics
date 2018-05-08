@@ -1,1 +1,32 @@
-{"date": "Fri May 04 01:04:38 +0000 2018", "username": "rahjaroyce", "full_text": "RT @turtlsaur: i feel sick, the weather is making me sluggish", "location": "Oahu, HI", "hashtags": [], "retweets_count": 1, "favorite_count": 2, "proba": "[0.20085216,0.79914784]", "classication": "positive"}{"date": "Wed May 02 02:26:31 +0000 2018", "username": "delaney_marie15", "full_text": "RT @MrGee54: When you gotta work a double cuz somebody called in sick but you had tickets to see Fredrick Douglass  #IfSlaveryWasAChoice ht\u2026", "location": "Honolulu, HI", "hashtags": [{"text": "IfSlaveryWasAChoice", "indices": [116, 136]}], "retweets_count": 10182, "favorite_count": 23281, "proba": "[0.31858355,0.68141645]", "classication": "positive"}
+[
+  {
+    "date": "Fri May 04 01:04:38 +0000 2018",
+    "username": "rahjaroyce",
+    "full_text": "RT @turtlsaur: i feel sick, the weather is making me sluggish",
+    "location": "Oahu, HI",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 2,
+    "proba": "[0.20085216,0.79914784]",
+    "classication": "positive"
+  },
+  {
+    "date": "Wed May 02 02:26:31 +0000 2018",
+    "username": "delaney_marie15",
+    "full_text": "RT @MrGee54: When you gotta work a double cuz somebody called in sick but you had tickets to see Fredrick Douglass  #IfSlaveryWasAChoice ht…",
+    "location": "Honolulu, HI",
+    "hashtags": [
+      {
+        "text": "IfSlaveryWasAChoice",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "retweets_count": 10182,
+    "favorite_count": 23281,
+    "proba": "[0.31858355,0.68141645]",
+    "classication": "positive"
+  }
+]

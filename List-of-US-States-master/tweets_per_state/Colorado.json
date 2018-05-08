@@ -1,1 +1,24 @@
-{"date": "Thu May 03 03:01:07 +0000 2018", "username": "exaltlmj", "full_text": "RT @RickyPDillon: Hi! Sorry for not being on much, I\u2019ve been sick so I\u2019ve been trying to rest but I\u2019m feeling better", "location": "Castle Rock, CO", "hashtags": [], "retweets_count": 77, "favorite_count": 2429, "proba": "[0.20302546,0.79697454]", "classication": "positive"}{"date": "Thu May 03 14:06:36 +0000 2018", "username": "BrookeC04287878", "full_text": "RT @Aaronfangurl_24: @3angelwraps @aaroncarter Thanks I'm still sick but feeling a little better so all I'm gonna do today is listen to #Fo\u2026", "location": "Denver, CO", "hashtags": [], "retweets_count": 1, "favorite_count": 3, "proba": "[0.4534164,0.5465836]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 03:01:07 +0000 2018",
+    "username": "exaltlmj",
+    "full_text": "RT @RickyPDillon: Hi! Sorry for not being on much, I’ve been sick so I’ve been trying to rest but I’m feeling better",
+    "location": "Castle Rock, CO",
+    "hashtags": [],
+    "retweets_count": 77,
+    "favorite_count": 2429,
+    "proba": "[0.20302546,0.79697454]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 14:06:36 +0000 2018",
+    "username": "BrookeC04287878",
+    "full_text": "RT @Aaronfangurl_24: @3angelwraps @aaroncarter Thanks I'm still sick but feeling a little better so all I'm gonna do today is listen to #Fo…",
+    "location": "Denver, CO",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 3,
+    "proba": "[0.4534164,0.5465836]",
+    "classication": "positive"
+  }
+]

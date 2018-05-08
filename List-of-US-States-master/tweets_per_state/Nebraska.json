@@ -1,1 +1,13 @@
-{"date": "Thu May 03 16:10:05 +0000 2018", "username": "emilyykrueger", "full_text": "RT @bodgy_heats: Why am i sick", "location": "UNE", "hashtags": [], "retweets_count": 1, "favorite_count": 0, "proba": "[0.25736231,0.74263769]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 16:10:05 +0000 2018",
+    "username": "emilyykrueger",
+    "full_text": "RT @bodgy_heats: Why am i sick",
+    "location": "UNE",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 0,
+    "proba": "[0.25736231,0.74263769]",
+    "classication": "positive"
+  }
+]

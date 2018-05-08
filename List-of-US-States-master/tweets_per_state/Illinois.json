@@ -1,1 +1,24 @@
-{"date": "Thu May 03 22:55:59 +0000 2018", "username": "Kiolex_", "full_text": "RT @MizuxeSZN: LAST F/A tweet xb1\nsick of getting slept on and egoed\nany role\nDM ASAP\nbe in leagues\n\nRTs Appreciated", "location": "Chicago, IL", "hashtags": [], "retweets_count": 2, "favorite_count": 2, "proba": "[0.25831572,0.74168428]", "classication": "positive"}{"date": "Tue May 01 01:37:20 +0000 2018", "username": "JAMAInternalMed", "full_text": "RT @EricTopol: Why it's Kafkaesque when doctors get sick\nSuch an astute essay by @shauryataran and @ADetsky @UofT\nhttps://t.co/kGftOtq9ud @\u2026", "location": "Chicago, IL", "hashtags": [], "retweets_count": 82, "favorite_count": 192, "proba": "[0.4101816,0.5898184]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 22:55:59 +0000 2018",
+    "username": "Kiolex_",
+    "full_text": "RT @MizuxeSZN: LAST F/A tweet xb1\nsick of getting slept on and egoed\nany role\nDM ASAP\nbe in leagues\n\nRTs Appreciated",
+    "location": "Chicago, IL",
+    "hashtags": [],
+    "retweets_count": 2,
+    "favorite_count": 2,
+    "proba": "[0.25831572,0.74168428]",
+    "classication": "positive"
+  },
+  {
+    "date": "Tue May 01 01:37:20 +0000 2018",
+    "username": "JAMAInternalMed",
+    "full_text": "RT @EricTopol: Why it's Kafkaesque when doctors get sick\nSuch an astute essay by @shauryataran and @ADetsky @UofT\nhttps://t.co/kGftOtq9ud @…",
+    "location": "Chicago, IL",
+    "hashtags": [],
+    "retweets_count": 82,
+    "favorite_count": 192,
+    "proba": "[0.4101816,0.5898184]",
+    "classication": "positive"
+  }
+]

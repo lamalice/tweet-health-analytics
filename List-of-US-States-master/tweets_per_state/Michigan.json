@@ -1,1 +1,24 @@
-{"date": "Thu May 03 03:39:37 +0000 2018", "username": "sarah052794", "full_text": "RT @melissacartern: Another episode where we go behind the scenes of everything Hollywood. Fact, @OKGeorgie was sick as a dog and it rained\u2026", "location": "Farmington Hills, MI", "hashtags": [], "retweets_count": 3, "favorite_count": 15, "proba": "[0.39267695,0.60732305]", "classication": "positive"}{"date": "Thu May 03 08:26:04 +0000 2018", "username": "divinefiIth", "full_text": "RT @marcelinesteel: My friend said she got sick and was in the hospital for a month and when I ask her if she\u2019s ok now she says \u201cI\u2019m skinny\u2026", "location": "MI", "hashtags": [], "retweets_count": 9, "favorite_count": 121, "proba": "[0.41314183,0.58685817]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 03:39:37 +0000 2018",
+    "username": "sarah052794",
+    "full_text": "RT @melissacartern: Another episode where we go behind the scenes of everything Hollywood. Fact, @OKGeorgie was sick as a dog and it rained…",
+    "location": "Farmington Hills, MI",
+    "hashtags": [],
+    "retweets_count": 3,
+    "favorite_count": 15,
+    "proba": "[0.39267695,0.60732305]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 08:26:04 +0000 2018",
+    "username": "divinefiIth",
+    "full_text": "RT @marcelinesteel: My friend said she got sick and was in the hospital for a month and when I ask her if she’s ok now she says “I’m skinny…",
+    "location": "MI",
+    "hashtags": [],
+    "retweets_count": 9,
+    "favorite_count": 121,
+    "proba": "[0.41314183,0.58685817]",
+    "classication": "positive"
+  }
+]

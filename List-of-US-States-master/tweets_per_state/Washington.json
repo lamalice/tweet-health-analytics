@@ -1,1 +1,24 @@
-{"date": "Thu May 03 23:16:56 +0000 2018", "username": "froggienana", "full_text": "RT @froggienana: @MyPeakChallenge After being sick today was the first day of walking in over a year. My first step to regain health and fi\u2026", "location": "Everett WA", "hashtags": [], "retweets_count": 1, "favorite_count": 2, "proba": "[0.36110034,0.63889966]", "classication": "positive"}{"date": "Thu May 03 13:48:02 +0000 2018", "username": "AnaSGrey", "full_text": "RT @CTG_CEOGEH: Taking the older kids to school so @AnaSGrey can stay home with Tay. I hate leaving my baby boy when he\u2019s sick. I hate it s\u2026", "location": "Seattle, WA", "hashtags": [], "retweets_count": 6, "favorite_count": 126, "proba": "[0.42644294,0.57355706]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 23:16:56 +0000 2018",
+    "username": "froggienana",
+    "full_text": "RT @froggienana: @MyPeakChallenge After being sick today was the first day of walking in over a year. My first step to regain health and fi…",
+    "location": "Everett WA",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 2,
+    "proba": "[0.36110034,0.63889966]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 13:48:02 +0000 2018",
+    "username": "AnaSGrey",
+    "full_text": "RT @CTG_CEOGEH: Taking the older kids to school so @AnaSGrey can stay home with Tay. I hate leaving my baby boy when he’s sick. I hate it s…",
+    "location": "Seattle, WA",
+    "hashtags": [],
+    "retweets_count": 6,
+    "favorite_count": 126,
+    "proba": "[0.42644294,0.57355706]",
+    "classication": "positive"
+  }
+]

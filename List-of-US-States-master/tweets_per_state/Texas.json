@@ -1,1 +1,120 @@
-{"date": "Thu May 03 12:48:13 +0000 2018", "username": "lvlyj_", "full_text": "RT @angel_zelayya: I\u2019ve been sick for like a month", "location": "Houston, TX", "hashtags": [], "retweets_count": 5, "favorite_count": 5, "proba": "[0.30742648,0.69257352]", "classication": "positive"}{"date": "Thu May 03 23:58:46 +0000 2018", "username": "yarrito_nichole", "full_text": "RT @SamanthaRaygoz1: I swear if I\u2019m getting sick again, I\u2019m gonna fight my immune system", "location": "Kingsville, TX", "hashtags": [], "retweets_count": 1, "favorite_count": 1, "proba": "[0.41304232,0.58695768]", "classication": "positive"}{"date": "Thu May 03 22:54:19 +0000 2018", "username": "Bieber9429", "full_text": "RT @BeautyChickee: I haven\u2019t felt like myself lately and idk maybe it\u2019s me exaggerating bc finals time and i\u2019ve been sick but idk man.", "location": "Brownsville, TX", "hashtags": [], "retweets_count": 105, "favorite_count": 1639, "proba": "[0.47743398,0.52256602]", "classication": "positive"}{"date": "Thu May 03 00:06:22 +0000 2018", "username": "Jb_Myers88", "full_text": "RT @HaroldHilton22: #IfSlaveryWasAChoice\n\nme trying to explain to massa why i was caught up north partying with Harriet Tubman when i calle\u2026", "location": "Dallas, TX", "hashtags": [{"text": "IfSlaveryWasAChoice", "indices": [20, 40]}], "retweets_count": 324, "favorite_count": 1030, "proba": "[0.46587008,0.53412992]", "classication": "positive"}{"date": "Thu May 03 23:11:08 +0000 2018", "username": "CapitalDeTejas", "full_text": "RT @suchgustavowow: I bet it would\u2019ve been sick to wonder who he is until in the movie they revealed it instead of the trailer. Oh well\u2026", "location": "College Station, TX", "hashtags": [], "retweets_count": 1, "favorite_count": 4, "proba": "[0.4653893,0.5346107]", "classication": "positive"}{"date": "Wed May 02 13:13:40 +0000 2018", "username": "rawocks", "full_text": "RT @haleaslenk: i fucking hate getting sick", "location": "Springtown, TX", "hashtags": [], "retweets_count": 1, "favorite_count": 1, "proba": "[0.35646562,0.64353438]", "classication": "positive"}{"date": "Thu May 03 12:48:13 +0000 2018", "username": "arizmendi_emily", "full_text": "RT @angel_zelayya: I\u2019ve been sick for like a month", "location": "Houston, TX", "hashtags": [], "retweets_count": 5, "favorite_count": 5, "proba": "[0.30742648,0.69257352]", "classication": "positive"}{"date": "Thu May 03 18:36:24 +0000 2018", "username": "vargas_hilario", "full_text": "RT @JulioCJ2_: @DjKidCash Cause bro  it ain\u2019t safe to eat lettuce rn some of it got E. coli  can\u2019t have the dj getting sick", "location": "Dallas, TX", "hashtags": [], "retweets_count": 3, "favorite_count": 2, "proba": "[0.46731168,0.53268832]", "classication": "positive"}{"date": "Thu May 03 13:48:02 +0000 2018", "username": "MissShay1986", "full_text": "RT @CTG_CEOGEH: Taking the older kids to school so @AnaSGrey can stay home with Tay. I hate leaving my baby boy when he\u2019s sick. I hate it s\u2026", "location": "Houston, TX", "hashtags": [], "retweets_count": 6, "favorite_count": 125, "proba": "[0.42644294,0.57355706]", "classication": "positive"}{"date": "Thu May 03 16:50:14 +0000 2018", "username": "laurynmartinez_", "full_text": "RT @alo_zavala5: I hate getting car sick \u2639\ufe0f", "location": "San Antonio, TX", "hashtags": [], "retweets_count": 1, "favorite_count": 0, "proba": "[0.37108946,0.62891054]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 12:48:13 +0000 2018",
+    "username": "lvlyj_",
+    "full_text": "RT @angel_zelayya: I’ve been sick for like a month",
+    "location": "Houston, TX",
+    "hashtags": [],
+    "retweets_count": 5,
+    "favorite_count": 5,
+    "proba": "[0.30742648,0.69257352]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 23:58:46 +0000 2018",
+    "username": "yarrito_nichole",
+    "full_text": "RT @SamanthaRaygoz1: I swear if I’m getting sick again, I’m gonna fight my immune system",
+    "location": "Kingsville, TX",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 1,
+    "proba": "[0.41304232,0.58695768]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 22:54:19 +0000 2018",
+    "username": "Bieber9429",
+    "full_text": "RT @BeautyChickee: I haven’t felt like myself lately and idk maybe it’s me exaggerating bc finals time and i’ve been sick but idk man.",
+    "location": "Brownsville, TX",
+    "hashtags": [],
+    "retweets_count": 105,
+    "favorite_count": 1639,
+    "proba": "[0.47743398,0.52256602]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 00:06:22 +0000 2018",
+    "username": "Jb_Myers88",
+    "full_text": "RT @HaroldHilton22: #IfSlaveryWasAChoice\n\nme trying to explain to massa why i was caught up north partying with Harriet Tubman when i calle…",
+    "location": "Dallas, TX",
+    "hashtags": [
+      {
+        "text": "IfSlaveryWasAChoice",
+        "indices": [
+          20,
+          40
+        ]
+      }
+    ],
+    "retweets_count": 324,
+    "favorite_count": 1030,
+    "proba": "[0.46587008,0.53412992]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 23:11:08 +0000 2018",
+    "username": "CapitalDeTejas",
+    "full_text": "RT @suchgustavowow: I bet it would’ve been sick to wonder who he is until in the movie they revealed it instead of the trailer. Oh well…",
+    "location": "College Station, TX",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 4,
+    "proba": "[0.4653893,0.5346107]",
+    "classication": "positive"
+  },
+  {
+    "date": "Wed May 02 13:13:40 +0000 2018",
+    "username": "rawocks",
+    "full_text": "RT @haleaslenk: i fucking hate getting sick",
+    "location": "Springtown, TX",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 1,
+    "proba": "[0.35646562,0.64353438]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 12:48:13 +0000 2018",
+    "username": "arizmendi_emily",
+    "full_text": "RT @angel_zelayya: I’ve been sick for like a month",
+    "location": "Houston, TX",
+    "hashtags": [],
+    "retweets_count": 5,
+    "favorite_count": 5,
+    "proba": "[0.30742648,0.69257352]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 18:36:24 +0000 2018",
+    "username": "vargas_hilario",
+    "full_text": "RT @JulioCJ2_: @DjKidCash Cause bro  it ain’t safe to eat lettuce rn some of it got E. coli  can’t have the dj getting sick",
+    "location": "Dallas, TX",
+    "hashtags": [],
+    "retweets_count": 3,
+    "favorite_count": 2,
+    "proba": "[0.46731168,0.53268832]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 13:48:02 +0000 2018",
+    "username": "MissShay1986",
+    "full_text": "RT @CTG_CEOGEH: Taking the older kids to school so @AnaSGrey can stay home with Tay. I hate leaving my baby boy when he’s sick. I hate it s…",
+    "location": "Houston, TX",
+    "hashtags": [],
+    "retweets_count": 6,
+    "favorite_count": 125,
+    "proba": "[0.42644294,0.57355706]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 16:50:14 +0000 2018",
+    "username": "laurynmartinez_",
+    "full_text": "RT @alo_zavala5: I hate getting car sick ☹️",
+    "location": "San Antonio, TX",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 0,
+    "proba": "[0.37108946,0.62891054]",
+    "classication": "positive"
+  }
+]

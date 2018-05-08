@@ -1,1 +1,40 @@
-{"date": "Wed May 02 03:29:02 +0000 2018", "username": "x_teambreezzyy", "full_text": "RT @Drebae_: When Massa catch me going to Harriet\u2019s kickback after I called in sick for my field shift earlier. \n\n#IfSlaveryWasAChoice http\u2026", "location": "Memphis, TN - Indianapolis, IN", "hashtags": [{"text": "IfSlaveryWasAChoice", "indices": [114, 134]}], "retweets_count": 17232, "favorite_count": 43816, "proba": "[0.37293231,0.62706769]", "classication": "positive"}{"date": "Wed May 02 02:26:31 +0000 2018", "username": "TJ__FORT", "full_text": "RT @MrGee54: When you gotta work a double cuz somebody called in sick but you had tickets to see Fredrick Douglass  #IfSlaveryWasAChoice ht\u2026", "location": "Carmel, IN", "hashtags": [{"text": "IfSlaveryWasAChoice", "indices": [116, 136]}], "retweets_count": 10167, "favorite_count": 23249, "proba": "[0.31858355,0.68141645]", "classication": "positive"}
+[
+  {
+    "date": "Wed May 02 03:29:02 +0000 2018",
+    "username": "x_teambreezzyy",
+    "full_text": "RT @Drebae_: When Massa catch me going to Harriet’s kickback after I called in sick for my field shift earlier. \n\n#IfSlaveryWasAChoice http…",
+    "location": "Memphis, TN - Indianapolis, IN",
+    "hashtags": [
+      {
+        "text": "IfSlaveryWasAChoice",
+        "indices": [
+          114,
+          134
+        ]
+      }
+    ],
+    "retweets_count": 17232,
+    "favorite_count": 43816,
+    "proba": "[0.37293231,0.62706769]",
+    "classication": "positive"
+  },
+  {
+    "date": "Wed May 02 02:26:31 +0000 2018",
+    "username": "TJ__FORT",
+    "full_text": "RT @MrGee54: When you gotta work a double cuz somebody called in sick but you had tickets to see Fredrick Douglass  #IfSlaveryWasAChoice ht…",
+    "location": "Carmel, IN",
+    "hashtags": [
+      {
+        "text": "IfSlaveryWasAChoice",
+        "indices": [
+          116,
+          136
+        ]
+      }
+    ],
+    "retweets_count": 10167,
+    "favorite_count": 23249,
+    "proba": "[0.31858355,0.68141645]",
+    "classication": "positive"
+  }
+]

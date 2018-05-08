@@ -1,1 +1,21 @@
-{"date": "Thu May 03 00:06:22 +0000 2018", "username": "traesantana", "full_text": "RT @HaroldHilton22: #IfSlaveryWasAChoice\n\nme trying to explain to massa why i was caught up north partying with Harriet Tubman when i calle\u2026", "location": "FORESTCREEK", "hashtags": [{"text": "IfSlaveryWasAChoice", "indices": [20, 40]}], "retweets_count": 326, "favorite_count": 1041, "proba": "[0.46587008,0.53412992]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 00:06:22 +0000 2018",
+    "username": "traesantana",
+    "full_text": "RT @HaroldHilton22: #IfSlaveryWasAChoice\n\nme trying to explain to massa why i was caught up north partying with Harriet Tubman when i calle…",
+    "location": "FORESTCREEK",
+    "hashtags": [
+      {
+        "text": "IfSlaveryWasAChoice",
+        "indices": [
+          20,
+          40
+        ]
+      }
+    ],
+    "retweets_count": 326,
+    "favorite_count": 1041,
+    "proba": "[0.46587008,0.53412992]",
+    "classication": "positive"
+  }
+]

@@ -1,1 +1,13 @@
-{"date": "Thu May 03 18:56:56 +0000 2018", "username": "Nard_____", "full_text": "RT @AnneZ1: Exactly! Vaccines are designed to keep Big Pharma en beezness. PPL getting et twisted, though. Dey'll say,  \"I've been getting\u2026", "location": "Northside Columbus, OH", "hashtags": [], "retweets_count": 5, "favorite_count": 8, "proba": "[0.49753195,0.50246805]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 18:56:56 +0000 2018",
+    "username": "Nard_____",
+    "full_text": "RT @AnneZ1: Exactly! Vaccines are designed to keep Big Pharma en beezness. PPL getting et twisted, though. Dey'll say,  \"I've been getting…",
+    "location": "Northside Columbus, OH",
+    "hashtags": [],
+    "retweets_count": 5,
+    "favorite_count": 8,
+    "proba": "[0.49753195,0.50246805]",
+    "classication": "positive"
+  }
+]

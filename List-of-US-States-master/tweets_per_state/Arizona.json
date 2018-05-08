@@ -1,1 +1,13 @@
-{"date": "Thu May 03 19:59:53 +0000 2018", "username": "DanyElChulo_", "full_text": "RT @_Biancaaam: My dad literally drove me to the doctor\u2019s office today because of my anxiety attack the other day and my mom telling him I\u2019\u2026", "location": "Phoenix, AZ", "hashtags": [], "retweets_count": 1, "favorite_count": 18, "proba": "[0.36855824,0.63144176]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 19:59:53 +0000 2018",
+    "username": "DanyElChulo_",
+    "full_text": "RT @_Biancaaam: My dad literally drove me to the doctor’s office today because of my anxiety attack the other day and my mom telling him I’…",
+    "location": "Phoenix, AZ",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 18,
+    "proba": "[0.36855824,0.63144176]",
+    "classication": "positive"
+  }
+]

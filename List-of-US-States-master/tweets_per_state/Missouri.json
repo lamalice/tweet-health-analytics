@@ -1,1 +1,24 @@
-{"date": "Thu May 03 18:08:20 +0000 2018", "username": "gmcdeez", "full_text": "RT @WolfCrownPE: I hate being sick \ud83e\udd15", "location": "Lee's Summit, MO", "hashtags": [], "retweets_count": 1, "favorite_count": 9, "proba": "[0.30788214,0.69211786]", "classication": "positive"}{"date": "Wed May 02 01:42:49 +0000 2018", "username": "unnfckwitable_", "full_text": "RT @verlitas: Grreeeaaatttt im getting sick and its prom week \ud83d\ude43", "location": "St Louis, MO", "hashtags": [], "retweets_count": 1, "favorite_count": 0, "proba": "[0.42957848,0.57042152]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 18:08:20 +0000 2018",
+    "username": "gmcdeez",
+    "full_text": "RT @WolfCrownPE: I hate being sick 🤕",
+    "location": "Lee's Summit, MO",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 9,
+    "proba": "[0.30788214,0.69211786]",
+    "classication": "positive"
+  },
+  {
+    "date": "Wed May 02 01:42:49 +0000 2018",
+    "username": "unnfckwitable_",
+    "full_text": "RT @verlitas: Grreeeaaatttt im getting sick and its prom week 🙃",
+    "location": "St Louis, MO",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 0,
+    "proba": "[0.42957848,0.57042152]",
+    "classication": "positive"
+  }
+]

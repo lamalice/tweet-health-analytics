@@ -1,1 +1,46 @@
-{"date": "Thu May 03 22:58:02 +0000 2018", "username": "SingleSpeedGo", "full_text": "RT @decca0830: @Iamawesome169 @SingleSpeedGo @KurtSchlichter Perhaps you should hold the insults until you have spent all day cleaning up v\u2026", "location": "Lorton, VA", "hashtags": [], "retweets_count": 1, "favorite_count": 1, "proba": "[0.41291256,0.58708744]", "classication": "positive"}{"date": "Thu May 03 10:56:48 +0000 2018", "username": "malinafoldesi", "full_text": "RT @Emmaawillis: Am I sick or is it allergies: a memoir", "location": "Farmville, VA", "hashtags": [], "retweets_count": 17, "favorite_count": 54, "proba": "[0.40109119,0.59890881]", "classication": "positive"}{"date": "Wed May 02 06:27:12 +0000 2018", "username": "Pascalidhiarhi", "full_text": "RT @du_mebi: Been sick for a while now, but thankful to be back on my feet\ud83d\ude0a\u2764\ufe0f https://t.co/MuIhTHp2Ci", "location": "Lynchburg, VA", "hashtags": [], "retweets_count": 50, "favorite_count": 404, "proba": "[0.48305018,0.51694982]", "classication": "positive"}{"date": "Thu May 03 10:56:48 +0000 2018", "username": "caitlinnpearson", "full_text": "RT @Emmaawillis: Am I sick or is it allergies: a memoir", "location": "RVA", "hashtags": [], "retweets_count": 17, "favorite_count": 53, "proba": "[0.40109119,0.59890881]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 22:58:02 +0000 2018",
+    "username": "SingleSpeedGo",
+    "full_text": "RT @decca0830: @Iamawesome169 @SingleSpeedGo @KurtSchlichter Perhaps you should hold the insults until you have spent all day cleaning up v…",
+    "location": "Lorton, VA",
+    "hashtags": [],
+    "retweets_count": 1,
+    "favorite_count": 1,
+    "proba": "[0.41291256,0.58708744]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 10:56:48 +0000 2018",
+    "username": "malinafoldesi",
+    "full_text": "RT @Emmaawillis: Am I sick or is it allergies: a memoir",
+    "location": "Farmville, VA",
+    "hashtags": [],
+    "retweets_count": 17,
+    "favorite_count": 54,
+    "proba": "[0.40109119,0.59890881]",
+    "classication": "positive"
+  },
+  {
+    "date": "Wed May 02 06:27:12 +0000 2018",
+    "username": "Pascalidhiarhi",
+    "full_text": "RT @du_mebi: Been sick for a while now, but thankful to be back on my feet😊❤️ https://t.co/MuIhTHp2Ci",
+    "location": "Lynchburg, VA",
+    "hashtags": [],
+    "retweets_count": 50,
+    "favorite_count": 404,
+    "proba": "[0.48305018,0.51694982]",
+    "classication": "positive"
+  },
+  {
+    "date": "Thu May 03 10:56:48 +0000 2018",
+    "username": "caitlinnpearson",
+    "full_text": "RT @Emmaawillis: Am I sick or is it allergies: a memoir",
+    "location": "RVA",
+    "hashtags": [],
+    "retweets_count": 17,
+    "favorite_count": 53,
+    "proba": "[0.40109119,0.59890881]",
+    "classication": "positive"
+  }
+]
