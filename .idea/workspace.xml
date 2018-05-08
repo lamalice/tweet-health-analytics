@@ -3,17 +3,46 @@
   <component name="ChangeListManager">
     <list default="true" id="2b4667d8-b4a5-4107-a8c8-5a4edfae2efd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets10.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets10.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets11.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets7.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets8.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets9.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/categorize.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/categorize_by_state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/states.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/states.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Alaska.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Alaska.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Arizona.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Arizona.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Arkansas.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Arkansas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/California.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/California.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Colorado.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Colorado.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Connecticut.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Connecticut.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Delaware.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Delaware.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Florida.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Florida.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Georgia.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Georgia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Hawaii.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Hawaii.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Idaho.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Idaho.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Illinois.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Illinois.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Indiana.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Indiana.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Iowa.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Iowa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Kentucky.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Kentucky.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Louisiana.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Louisiana.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Maine.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Maine.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Maryland.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Maryland.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Massachusetts.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Massachusetts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Michigan.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Michigan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Minnesota.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Minnesota.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Missouri.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Missouri.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Nebraska.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Nebraska.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New Mexico.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New Mexico.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New York.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New York.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/North Carolina.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/North Carolina.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/North Dakota.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/North Dakota.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Ohio.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Ohio.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Oklahoma.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Oklahoma.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Oregon.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Oregon.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Pennsylvania.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Pennsylvania.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Rhode Island.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Rhode Island.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/South Carolina.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/South Carolina.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Texas.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Texas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Utah.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Utah.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Virginia.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Virginia.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Washington.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Washington.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Wisconsin.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Wisconsin.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/categorize_by_state.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/categorize_by_state.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +65,8 @@
       <file leaf-file-name="categorize_by_state.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/categorize_by_state.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="582">
+              <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -96,6 +125,7 @@
         <option value="$PROJECT_DIR$/data/classifier.py" />
         <option value="$PROJECT_DIR$/data/categorize_geolocation.py" />
         <option value="$PROJECT_DIR$/data/categorize.py" />
+        <option value="$PROJECT_DIR$/List-of-US-States-master/states.json" />
         <option value="$PROJECT_DIR$/data/categorize_by_state.py" />
       </list>
     </option>
@@ -256,14 +286,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1175" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986508" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45070422" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2028169" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -388,10 +417,16 @@
     <entry file="file://$PROJECT_DIR$/data/20180503/extracted_tweets11.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/List-of-US-States-master/cleaned_states.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List-of-US-States-master/states.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/categorize_by_state.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="582">
+          <caret line="48" column="51" selection-start-line="48" selection-start-column="51" selection-end-line="48" selection-end-column="51" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

@@ -34,16 +34,21 @@ def group_by_state():
         for y in range(len(states)):
             with open(path + states[y]["state"]+'.json', "w")as out_state:
                 for item in positive_tweets:
-                    if states[y]["state"].lower() in item["location"].lower() or states[y]["abbreviation"].lower() in item["location"].lower()\
-                            or item["location"] == "Los Angeles" or item["location"].lower().strip() == "texas":
+                    # if states[y]["state"].lower() in item["location"].lower() or states[y]["abbreviation"].lower() in item["location"].lower()\
+                    #         or item["location"] == "Los Angeles" or item["location"].lower().strip() == "texas":
+                    if re.fullmatch('\b' + re.escape(states[y]['state'])+'\b', item["location"])\
+                            or re.search(re.escape(states[y]['abbreviation']), item["location"]):
+
                         popped_tweet = positive_tweets.pop(positive_tweets.index(item))
                         location_tweets.append(popped_tweet)
                         json.dump(popped_tweet,out_state)
-
-        positive_location_invalid = positive_tweets
-
-
-
-
+        #
+        # for item in location_tweets:
+        #     print(item['location'])
+        # print(len(positive_tweets))
+        # positive_location_invalid = positive_tweets
+        # for item in positive_location_invalid:
+        #     print(item['location'])
+        # print(len(positive_location_invalid))
 
 group_by_state()
