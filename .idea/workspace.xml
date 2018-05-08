@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b4667d8-b4a5-4107-a8c8-5a4edfae2efd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Arizona.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Arizona.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/California.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/California.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Colorado.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Colorado.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/District of Columbia.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/District of Columbia.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Florida.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Florida.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Hawaii.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Hawaii.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Illinois.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Illinois.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Indiana.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Indiana.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Louisiana.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Louisiana.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Maryland.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Maryland.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Michigan.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Michigan.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Minnesota.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Minnesota.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Missouri.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Missouri.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Nebraska.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Nebraska.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New Jersey.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New Jersey.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New Mexico.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New Mexico.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New York.json" beforeDir="false" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/New York.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/20180503/training_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/20180503/training_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Alabama.json" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Alabama.json" />
+      <change beforePath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Georgia.json" afterPath="$PROJECT_DIR$/List-of-US-States-master/tweets_per_state/Georgia.json" />
+      <change beforePath="$PROJECT_DIR$/data/categorize_by_state.py" afterPath="$PROJECT_DIR$/data/categorize_by_state.py" />
+      <change beforePath="$PROJECT_DIR$/data/location/US_BY_STATE_1.json/2018-05/20180506.errors.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/location/US_BY_STATE_1.json/2018-05/20180506.json" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +22,8 @@
         <entry file="file://$PROJECT_DIR$/data/tweet_extractor.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -42,8 +31,8 @@
       <file leaf-file-name="categorize_by_state.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/categorize_by_state.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+            <state relative-caret-position="594">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -51,16 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="extracted_tweets11.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets11.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="classifier.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="56" column="34" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="34" />
+            <state relative-caret-position="900">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -114,11 +98,20 @@
     <option name="height" value="1153" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,26 +124,12 @@
               <item name="tweet-health-analytics" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tweet-health-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tweet-health-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="List-of-US-States-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tweet-health-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tweet-health-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="test_data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tweet-health-analytics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tweet-health-analytics" type="462c0819:PsiDirectoryNode" />
-              <item name="test_data" type="462c0819:PsiDirectoryNode" />
-              <item name="geo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,7 +155,6 @@
   </component>
   <component name="RunManager" selected="Python.categorize_geolocation">
     <configuration name="categorize_geolocation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tweet-health-analytics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -187,6 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tweet-health-analytics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/categorize_by_state.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -194,7 +173,6 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tweet-health-analytics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -205,6 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tweet-health-analytics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/classifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -212,7 +191,6 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="tweet_extractor" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tweet-health-analytics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,24 +201,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tweet-health-analytics" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/tweet_extractor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list>
-      <item itemvalue="Python.classifier" />
-      <item itemvalue="Python.tweet_extractor" />
-      <item itemvalue="Python.categorize_geolocation" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.classifier" />
+      <item index="1" class="java.lang.String" itemvalue="Python.categorize_geolocation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tweet_extractor" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Python.categorize_geolocation" />
-        <item itemvalue="Python.classifier" />
-        <item itemvalue="Python.tweet_extractor" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.categorize_geolocation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tweet_extractor" />
+        <item index="2" class="java.lang.String" itemvalue="Python.classifier" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -256,50 +238,79 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1175" extended-state="6" />
+    <frame x="159" y="27" width="1853" height="1175" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986508" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2028169" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2774133" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/tweet_extractor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="594">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        <state relative-caret-position="918">
+          <caret line="56" column="34" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="34" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/categorize_by_state.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/tweet_extractor.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/classifier.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -314,7 +325,7 @@
     <entry file="file://$PROJECT_DIR$/data/tweet_extractor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -325,79 +336,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_data/geo/US_BY_STATE_2.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_data/geo/process_geojson.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2488" />
+        <state relative-caret-position="-2488">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_data/place_names.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_data/geo/US_BY_STATE_3.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test_data/geo/US_BY_STATE_1.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/tweet_extractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="56" column="34" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="34" />
+        <state relative-caret-position="900">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/20180503/extracted_tweets10.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/20180503/extracted_tweets9.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/20180503/extracted_tweets8.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/20180503/extracted_sample.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/20180503/extracted_tweets/extracted_tweets11.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/20180503/extracted_tweets11.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List-of-US-States-master/cleaned_states.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List-of-US-States-master/states.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/data/tweet_extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/categorize_by_state.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        <state relative-caret-position="594">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

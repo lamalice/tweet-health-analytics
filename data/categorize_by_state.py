@@ -39,16 +39,15 @@ def group_by_state():
                     if re.fullmatch('\b' + re.escape(states[y]['state'])+'\b', item["location"])\
                             or re.search(re.escape(states[y]['abbreviation']), item["location"]):
 
+
                         popped_tweet = positive_tweets.pop(positive_tweets.index(item))
                         location_tweets.append(popped_tweet)
                         json.dump(popped_tweet,out_state)
-        #
-        # for item in location_tweets:
-        #     print(item['location'])
-        # print(len(positive_tweets))
-        # positive_location_invalid = positive_tweets
-        # for item in positive_location_invalid:
-        #     print(item['location'])
-        # print(len(positive_location_invalid))
+
+        positive_location_invalid = positive_tweets
+    with open("/home/alice/Developer/tweet-health-analytics/List-of-US-States-master/tweets_no_location/no_location.json", "w",encoding="utf-8")as no_location:
+       for item in positive_location_invalid:
+
+           json.dump(item, no_location)
 
 group_by_state()

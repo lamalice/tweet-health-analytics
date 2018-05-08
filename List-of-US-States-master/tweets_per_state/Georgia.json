@@ -1,1 +1,13 @@
-{"date": "Thu May 03 04:54:40 +0000 2018", "username": "Joesmagnificent", "full_text": "RT @jahxjah: sick of obstacles, but they\u2019re making me greater", "location": "Here N There, GA", "hashtags": [], "retweets_count": 14, "favorite_count": 19, "proba": "[0.42110249,0.57889751]", "classication": "positive"}
+[
+  {
+    "date": "Thu May 03 04:54:40 +0000 2018",
+    "username": "Joesmagnificent",
+    "full_text": "RT @jahxjah: sick of obstacles, but they’re making me greater",
+    "location": "Here N There, GA",
+    "hashtags": [],
+    "retweets_count": 14,
+    "favorite_count": 19,
+    "proba": "[0.42110249,0.57889751]",
+    "classication": "positive"
+  }
+]
