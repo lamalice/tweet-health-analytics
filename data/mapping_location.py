@@ -32,7 +32,7 @@ def bar_valid_location():
     )]
 
     layout = go.Layout(
-        title="Number of sick per state",
+        title="Number of sick per state \n (May 2, 2018)",
         xaxis=dict(
             title="States"
         ),
@@ -94,4 +94,5 @@ def map_location_USmap():
     fig = dict(data=cities, layout=layout)
     plotly.offline.plot(fig, validate=False, filename='d3-bubble-map-populations.html')
 
-map_location_USmap()
+# map_location_USmap()
+bar_valid_location()
